@@ -5,10 +5,11 @@ line = f.readline()
 l1=[]
 # l2 =[]
 # l3=[]
+count=1
 while(line):
     if(line=="\n"):
         if(len(l1)):
-            str1 = str1+" ".join(l1)+"\t"+str(flag)+"\t"+str(flag)+"\n"
+            str1 = str1+str(count)+"\t"+" ".join(l1)+"\t"+str(flag)+"\t"+str(flag)+"\n"
             # str2 = str2+" ".join(l2)+"\n"
             # str3 = str3+" ".join(l3)+"\n"
             l1=[]
