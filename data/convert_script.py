@@ -35,6 +35,7 @@ while(line):
         # print(array)
         # print(array[2][:-1])
     line = f.readline()
+    count += 1
     # break
 f1.write(str1)
 # f2.write(str2)
