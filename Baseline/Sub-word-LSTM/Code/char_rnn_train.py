@@ -55,7 +55,7 @@ from ekphrasis.dicts.emoticons import emoticons
 ################# GLOBAL VARIABLES #####################
 #Filenames
 #TODO: Add to coding conventions that directories are to always end with '/'
-Masterdir = '/home/keshav/6thsem/cs698/CS698O_G9/Baseline/Sub-word-LSTM/'
+Masterdir = '../'
 Datadir = 'Data/'
 Modeldir = 'Models/'
 Featuredir = 'Features/'
@@ -83,7 +83,7 @@ pool_length = 3
 lstm_output_size = 128
 # Training
 batch_size = 128
-number_of_epochs = 50
+number_of_epochs = 10
 numclasses = 3
 test_size = 0.2
 ########################################################
@@ -209,14 +209,22 @@ def RNN(X_train,y_train,args):
 	print('Build model...')
 	model = Sequential()
 	model.add(Embedding(max_features, embedding_size, input_length=maxlen))
+	
 	model.add(Convolution1D(nb_filter=nb_filter,
 							filter_length=filter_length,
 							border_mode='valid',
 							activation='relu',
 							subsample_length=1))
 	model.add(MaxPooling1D(pool_length=pool_length))
-	model.add(Bidirectional(LSTM(lstm_output_size, dropout_W=0.2, dropout_U=0.2, return_sequences=True)))
-	model.add(Bidirectional(LSTM(lstm_output_size, dropout_W=0.2, dropout_U=0.2, return_sequences=False)))
+	model.add((LSTM(lstm_output_size, dropout_W=0.2, dropout_U=0.2, return_sequences=True)))
+	model.add(Convolution1D(nb_filter=nb_filter,
+                                                        filter_length=filter_length,
+                                                        border_mode='valid',
+                                                        activation='relu',
+                                                        subsample_length=1))
+	model.add(MaxPooling1D(pool_length=pool_length))
+
+	model.add((LSTM(lstm_output_size, dropout_W=0.2, dropout_U=0.2, return_sequences=False)))
 	model.add(Dense(numclasses))
 	model.add(Activation('softmax'))
 
