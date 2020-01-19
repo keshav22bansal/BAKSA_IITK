@@ -215,8 +215,8 @@ def RNN(X_train,y_train,args):
 							activation='relu',
 							subsample_length=1))
 	model.add(MaxPooling1D(pool_length=pool_length))
-	model.add(Bidirectional(GRU(gru_output_size, dropout_W=0.2, dropout_U=0.2, return_sequences=True)))
-	model.add(Bidirectional(GRU(gru_output_size, dropout_W=0.2, dropout_U=0.2, return_sequences=False)))
+	model.add(GRU(gru_output_size, dropout_W=0.2, dropout_U=0.2, return_sequences=True))
+	model.add(GRU(gru_output_size, dropout_W=0.2, dropout_U=0.2, return_sequences=False))
 	model.add(Dense(numclasses))
 	model.add(Activation('softmax'))
 
