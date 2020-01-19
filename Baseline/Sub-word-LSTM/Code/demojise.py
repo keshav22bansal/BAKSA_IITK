@@ -14,6 +14,11 @@ with open("../data/sem_eval_data.txt") as f:
                 l1.append(token)
         ans1 = " ".join(l1)
         ans = ans1[:-4] +" "+ " ".join(l2)+" "+ ans1[-4:]+'\n'
+        ans = list(ans)
+        ans[-3] = '\t'
+        ans[-5] = '\t'
+        # print(ans)
+        ans = "".join(ans)
         # print(ans)
         newfile.write(ans)
         # break
