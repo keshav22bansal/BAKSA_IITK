@@ -57,7 +57,7 @@ with open("../Data/sem_eval_data.txt") as f:
 
         ##Modified by Keshav
         print(ans)
-        ans = ans.replace('@ ','@')
+        ans = ans.replace('@ ','@').replace('# ','#').replace('<','').replace('>','').replace("_",' ').replace('  ',' ')
         string = ans.split('\t')[1]
         processed = text_processor.pre_process_doc(string)
         print(processed)
@@ -68,7 +68,7 @@ with open("../Data/sem_eval_data.txt") as f:
             new_ans.append(token)
         
         arr = ans.split('\t')
-        arr[1] = " ".join(new_ans)
+        arr[1] = re.sub(r"http.*|…",""," ".join(new_ans))
         ans = "\t".join(arr)
         
         print(arr[2])
