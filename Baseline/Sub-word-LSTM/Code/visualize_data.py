@@ -1,46 +1,20 @@
 
-# coding: utf-8
-
-# In[2]:
-
 
 import pandas as pd
 
 
-# In[3]:
-
-
-get_ipython().system('ls')
-
-
-# In[10]:
-
-
-data = pd.read_csv('sem_eval_data.txt',delimiter='\t',names=["1","2","3","4"])
-
-
-# In[16]:
-
+data = pd.read_csv('../Data/sem_eval_data_smileys_replaced_users_removed',delimiter='\t',names=["1","2","3","4"])
 
 import matplotlib.pyplot as plt
 plt.hist(data["4"])
 
 
-# In[26]:
-
-
 for i in range(200):
     print(data["2"][i],data["3"][i])
 
-
-# In[30]:
-
-
+\
 from keras import models
-
-
-# In[32]:
-
 
 model = models.load_weight('../Models/LSTM_new_experiment_weights.h5')
 
+print(model.summary())
