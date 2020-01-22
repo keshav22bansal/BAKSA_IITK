@@ -5,6 +5,8 @@ line = f.readline()
 l1=[]
 # l2 =[]
 # l3=[]
+flag=0
+flag2=0
 count=1
 while(line):
     if(line=="\n"):
@@ -19,6 +21,7 @@ while(line):
         array = line.split("\t")
         print(array,len(array))
         if(len(array)==3):
+            flag2 = array[1]
             if(array[2][:-1]=="negative"):
                 flag=0
             elif(array[2][:-1]=="positive"):
