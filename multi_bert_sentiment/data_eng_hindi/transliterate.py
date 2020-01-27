@@ -1,6 +1,9 @@
 # from polyglot.transliteration import Transliterator
 from indic_transliteration import sanscript
 from indic_transliteration.sanscript import SchemeMap, SCHEMES, transliterate
+
+def  
+
 l1 =[]
 l2 =[]
 f1 = open("train_conll.txt","r")
@@ -36,7 +39,8 @@ while(line):
                 exit(0)
         else:
             if(array[1][:-1]=="Hin"):
-                l1.append(transliterate(array[0], sanscript.ITRANS, sanscript.DEVANAGARI))
+                # l1.append(transliterate(array[0], sanscript.ITRANS, sanscript.DEVANAGARI))
+                l1.append()
             else:
                 l1.append(array[0])
     line = f1.readline()
