@@ -1,13 +1,9 @@
 # from polyglot.transliteration import Transliterator
-from indic_transliteration import sanscript
-from indic_transliteration.sanscript import SchemeMap, SCHEMES, transliterate
-
-def  
-
+import requests
 l1 =[]
 l2 =[]
 f1 = open("train_conll.txt","r")
-f = open("transliterated_data.txt","w+")
+f = open("transliterated_data_google.txt","w+")
 flag=0
 flag2=0
 line =f1.readline()
@@ -20,7 +16,10 @@ while(line):
             l1=[]
             # print(str1)
             count=count+1
-            # if(count%1000==0)
+            if(count%10==0):
+                print(count)
+                f.write(str1)
+                exit(0)
             # exit(0)
     else:
         array = line.split("\t")
@@ -39,8 +38,12 @@ while(line):
                 exit(0)
         else:
             if(array[1][:-1]=="Hin"):
+                URL = "https://www.google.com/inputtools/request?text="+str(array[0])+"&ime=transliteration_en_hi&num=5&cp=0&cs=0&ie=utf-8&oe=utf-8&app=jsapi&uv"
+                PARAMS = {} 
+                r = requests.get(url = URL, params = PARAMS) 
+                data = r.json() 
                 # l1.append(transliterate(array[0], sanscript.ITRANS, sanscript.DEVANAGARI))
-                l1.append()
+                l1.append(data[1][0][1][0])
             else:
                 l1.append(array[0])
     line = f1.readline()
