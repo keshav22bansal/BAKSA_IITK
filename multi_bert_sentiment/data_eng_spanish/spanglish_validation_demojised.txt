@@ -18,7 +18,7 @@ uid	text	label
 17	Nor should he be ! Algo así como “ y no debería ” He 's not allowed to drink , nor should he be !	1
 18	son a lot Pero Nomas 3 me Gustaron I Uno has a truck el Fue el que came scoop c ; haha they cool especially la Suegra (; face with tongue person tipping hand	2
 19	lmao its funny cause primero andan hablando d uno y luego vienen a pedir favores & I 'm just like nah buscenle x otro lado !	0
-20	tornado Por ejemplo " other than/aparte de " en algunos casos tiene MUCHO más sentido que " otro que " saludos :)	2
+20	tornado Por ejemplo  other than/aparte de  en algunos casos tiene MUCHO más sentido que  otro que  saludos :)	2
 21	I do n't want to be ( 18 ) but I think you are way ( 19 ) for this position ( 18 : Grosero ) ( 19 : Relajado/perezoso )	0
 22	itskayyyyy no pos wow , Fuhk the tmbim a Los heats	0
 23	He already knocked him down in the first no mamar	1
@@ -40,9 +40,9 @@ uid	text	label
 39	14 lmao you have to move the cordon a certain way or else no pasa el corriente ? face with tears of joy	1
 40	no pos wow face with tears of joy face savoring food OK hand	2
 41	BBonjour shop online seca : b	2
-42	Cuando ellos dicen " late " no dicen leɪt ni leɪ dicen una t " muda " , les voy a avisar cuando lo tenga actualizado en la web :)	2
+42	Cuando ellos dicen  late  no dicen leɪt ni leɪ dicen una t  muda  , les voy a avisar cuando lo tenga actualizado en la web :)	2
 43	Rodeo tonight ... aver k tal me ba esta ves !! ! -	2
-44	mess up significa muchas cosas , allí significa algo así como hmmm " joderle la vida " sorry , sorry , no encuentro otra palabra :)	0
+44	mess up significa muchas cosas , allí significa algo así como hmmm  joderle la vida  sorry , sorry , no encuentro otra palabra :)	0
 45	My nieghbors are like the loudest family in the whole apt	2
 46	RT tetanic : la gente jura que uno no se cansa y estará siempre aguantando todo , mmmm not .	0
 47	RT : &  	1
@@ -54,17 +54,17 @@ uid	text	label
 53	gringos be eating so early .. .	0
 54	El video de zomber Girl va a tardar mas de 5 horas en renderizarse por estar grabado en 5K .. . y ahora que asemoh ?. .. no matamo ?	0
 55	RT : Siempre quieren buscarle justificación a las cosas mas crueles , mera missed me with that bullshit , educate y después habla .	0
-56	RT : Mi mejor amiga se pasa dando rt a tweets que dicen " Yo siempre contesto rápido " ; al jevo será porque a mi hasta me ignora	0
-57	RT : Anna Karina and Jean-Paul Belmondo in " Pierrot le fou " ( 1965 ) . 	1
+56	RT : Mi mejor amiga se pasa dando rt a tweets que dicen  Yo siempre contesto rápido  ; al jevo será porque a mi hasta me ignora	0
+57	RT : Anna Karina and Jean-Paul Belmondo in  Pierrot le fou  ( 1965 ) . 	1
 58	RT : melo sin poder subir el vlog 	0
 59	La gente en la uni que van un día normal medios disfrazados , en Halloween se botan	0
 60	cuidado en Rexville plaza aparente asesinato en el Parking por popeyes .	0
 61	RT : RT RT RT Si lo han visto Por Favor , comuniquense DM o Llamen , Gracias RT RT RT 	0
-62	RT : " Senior year es un paseo " QUIEN CARAJO DIJO SEMEJANTE MENTIRA	0
+62	RT :  Senior year es un paseo  QUIEN CARAJO DIJO SEMEJANTE MENTIRA	0
 63	RT orm : Ideas de promposal de mis amigas = public humiliation	0
 64	SANTA ROSA I SEC LOS LOPEZ SIN LUZ !! !	0
 65	He tenido problemas con los planos de Gopro que tengo para el vlog . Tengo que recuperarlos y va a tardar , así que EL VLOG SE SUBE MAÑANA .	0
-66	48 min . y nada pasa , me paro a ir al baño y me reciben con " te perdiste el golazo " .. . ok ya no me voy a mover	0
+66	48 min . y nada pasa , me paro a ir al baño y me reciben con  te perdiste el golazo  .. . ok ya no me voy a mover	0
 67	RT : Cuando le dedicas un tierno y creativo Promposal .. . Pero te dicen que NO ? 	0
 68	Retweet si encuentras los errores .. . 	0
 69	RT 94 : Necesito un hogar ! RT Please !! ! Soy macho ! 	0
@@ -82,11 +82,11 @@ uid	text	label
 81	RT m : Yo trato de estar de buen humor pero la gente siempre la fucking caga	0
 82	RT : Empezar mañana mi ultimo semestre en montessori es como el peor y mejor feeling del mundo flushed face neutral face	0
 83	Estuve todo el día muriendome de sueño . 3AM y yo estoy active .	0
-84	RT : " Aprende a tweet " jodia puta huelebicha	0
+84	RT :  Aprende a tweet  jodia puta huelebicha	0
 85	daaamn . Justas , practicas , presentaciones , exámenes . Shit 's real man	0
 86	RT : Puesta pal nap con la patita echá	0
 87	Cabrones en Dennys había un tipo un pin de Trump en la camisa y el carro lleno de stickers apoyando a Trump . What the freaking hell ?	0
-88	RT : RAP GAMER !! Me ayudais con un Rt " brocolis " y ? xD 	0
+88	RT : RAP GAMER !! Me ayudais con un Rt  brocolis  y ? xD 	0
 89	RT : no sé cómo pretendo envolverme si le picheo a to ' el mundo thinking face	0
 90	Hacer brownies y que se lo acaben sin que lo llegues a probar . Ok	0
 91	Cual es la necesidad de darle RT a cuanta mierda comentan en tu tweets ?? face with rolling eyes thinking face	0
@@ -95,13 +95,13 @@ uid	text	label
 94	RT : Tú quieres saber si Myers hace to lo que canta	0
 95	bt okay okay . Pues yo estoy freaking out . Paro de estudiar porque es tarde y estoy cansada y siento que estoy perdiendo el tiempo weary face	0
 96	Vivimos en in Mundo tan Falso y mediocre . El Infierno es aqui mismo en la Tierra , el peor este sistema lo vivimos en este pais !	0
-97	" Hoy estamos de luto , Georgia Tech perdió " ok dad	0
+97	 Hoy estamos de luto , Georgia Tech perdió  ok dad	0
 98	Wendy Williams es una de las personas más basura en daytime TV .	0
 99	El album de zayn no esta tan bueno .. . Fo realz .. . Tiene como 3-4 canciones buenas	0
 100	Chequea mi dm .	0
 101	Le he preguntado mínimo a 11 personas y ninguno tiene fucking guantes blancos , perf , perf	0
 102	blah , dna , blah , mutaciones , BCRA1 , blah , RNAi , operón de lactosa , blah , regulación , cáncer .. .	0
-103	RT : * silently whispers " buen provecho " to myself because i 'm surrounded by americans *	0
+103	RT : * silently whispers  buen provecho  to myself because i 'm surrounded by americans *	0
 104	RT : vivo en un constante * sigh *	0
 105	Wow que trajes mas feos se ponen estas tipas pal prom cat face with tears of joy	0
 106	RT isabelle : ¿ Para esto me cancelaron mi ring ?	0
@@ -148,7 +148,7 @@ uid	text	label
 147	RT : La noche está para una movie y una copa de vino .. ..	1
 148	RT nanoshka : No sé porque es , pero siempre estoy para conversaciones deep .	0
 149	i guesss pero me da dermatitis . So aunque beba mucha sprite no me da . Y no puedo bregaL con el agua namás éGorda pensive face	0
-150	yo no te he dado permiso para un " date " pff	1
+150	yo no te he dado permiso para un  date  pff	1
 151	Real talk jajajajajaj repost si estas en las  	1
 152	RT karlawarla : No hay cosa más graciosa que los flashbacks el día después del jangueo .	1
 153	RT gronski : Fifty shades of mi apa 	1
@@ -156,15 +156,15 @@ uid	text	label
 155	No me preocupa spam tw a esta hr cause casi nunca hay gente sou	1
 156	No saben lo mucho que me duele cuando los de Baskin me dicen que no tienen mantecado de Rainbow	2
 157	No había wifi y por eso no he podido subir vlog . MAÑANA HABRÁ . I PROMISE .	1
-158	RT nicole : " mi último follower " new moon face	1
-159	RT : " Never trashy " excepto cuando sale Jowell y Randy , ahi hay break y excusa	0
+158	RT nicole :  mi último follower  new moon face	1
+159	RT :  Never trashy  excepto cuando sale Jowell y Randy , ahi hay break y excusa	0
 160	Un adelantito de lo que tengo para ya estamos listos  	0
 161	Wish . Smile . Enjoy Desea . Sonrie . Disfruta mood 	1
-162	Nunca pensé que " bruh " me frustraría tanto	1
+162	Nunca pensé que  bruh  me frustraría tanto	1
 163	z Llore tanto wow ! Me dolio	0
 164	RT : ¡ Orgullo Boricua ! MT : Wow !! What a match !! just beat 3-2 for their 2nd pool G win htt 	2
 165	RT : te hicimos una pequeña sorpresa ¡ Esperemos que te recuperes pronto ! Te queremos 	0
-166	RT : " tweet not found " MIRA PUÑETA YO LO ESTOY VIENDO	0
+166	RT :  tweet not found  MIRA PUÑETA YO LO ESTOY VIENDO	0
 167	OMA OMA OMAIGA !! Cuantisimas visitas :O COD BLACK OPS 3 ZOMBIES EPIC RAP | KRONNO ZOMBER ft . Cryptic Wisdom 	1
 168	RT aimeecollazo : FUCKING LITERAL 	1
 169	RT : mis tweets no son dedicados a nadie , so no te piques y tampoco te emociones	1
@@ -197,7 +197,7 @@ uid	text	label
 196	RT : Para ser honesto , me divertí mucho haciendo este mural . 	1
 197	RT : En fotos con y makeup & hair Stylist ツ	1
 198	24 JAJAJAJ that sucks af	0
-199	RT : el " te ves hermosa hoy " nunca puede faltar y es una de las cosas que más enamoran , alwayssss .	0
+199	RT : el  te ves hermosa hoy  nunca puede faltar y es una de las cosas que más enamoran , alwayssss .	0
 200	Los nudes dan vida y animo para continuar feliz el día .	1
 201	cifi me tiene en un badtrip eterno	0
 202		1
@@ -225,7 +225,7 @@ uid	text	label
 224	RT : * Se imagina uno de esos tweets de consejos de amor o algo totalmente obvio sin el límite de 140 characters * * projectile vo 	0
 225	Yal nivel : puso como 5 stories con el filtro del perrito reyes face with rolling eyes	1
 226	RT : que el vino se le va a calentar con tanto fuego 	1
-227	RT : Me dice " Papi , dime cosas nasty " mientras le bajo el pantie	0
+227	RT : Me dice  Papi , dime cosas nasty  mientras le bajo el pantie	0
 228	Mañana tendré mi primera competencia de cheer y no sé ni como me siento flushed face	0
 229	JAJAJAJAJAJJAAJ 2013 ? Rlly ?	1
 230	RT : The Música Unsigned contest winner has been revealed : 	0
@@ -236,7 +236,7 @@ uid	text	label
 235	RT : Hoy es pa ' Vibra a celebrar el cumple del bro bottle with popping cork	1
 236	JJAJAJAJAJAJAJ BYE	1
 237	RT : Me dejan en read pero mi tiro un buen selfie to make them cry .	1
-238	" : Como se dice repollo en ingles ? Rechiken LOL " face with tears of joy face with tears of joy face with tears of joy face with tears of joy	0
+238	 : Como se dice repollo en ingles ? Rechiken LOL  face with tears of joy face with tears of joy face with tears of joy face with tears of joy	0
 239	Xmil , no hay break 	0
 240	RT maria5 : mis seniors 	0
 241	Que mucha mierda drunk me puso en snapchat ayer . * procede a empezar a borrar *	0
@@ -249,7 +249,7 @@ uid	text	label
 248	RT 17 : Madonna viene en cocierto y Taylor Swift no . NO ENTIENDO * Coscu 's voice *	0
 249	Throwback a cuando salía del work a las 7 , ahora salgo a las 9 y cuidau loudly crying face	0
 250	Un cachito de la cancion de ZOMBER GIRL ?? ? Estoy enamorado de esta canción !! Z4E 	2
-251	RT : “ : " : El viernes voy de negra completa " ohh naomi being controversial ? ” Rebel baby angel	2
+251	RT : “ :  : El viernes voy de negra completa  ohh naomi being controversial ? ” Rebel baby angel	2
 252	Tenía dolor de cabeza de tanto estudiar así que me metí pastillas para la migraña . Y pues tienen cafeína . Jeeee all nighter keslake ?	0
 253	Ni me molestó lo difícil que se pusieron los nenes en el trabajo , me hacían falta cc	1
 254	Just the smell of the summer can make me fall in Love . GYPSY SUMMER - Maxifaldas - Tops en V 	1
@@ -263,7 +263,7 @@ uid	text	label
 262	Fucking lab a las 7:00 am weary face pistol	0
 263	Solita .. .. woot Woot !! !! A Recargar y Luego Con susanlee40 Si No Me Arrepiento ..  	1
 264	Que os parece un libro en el que ponga mis letras y que podais rellenar algunas frases + mis reglas para sobrevivir a un apocalipsis zomber ?	2
-265	" you do n't bachata ?. .. . are n't you Spanish ? "	1
+265	 you do n't bachata ?. .. . are n't you Spanish ? 	1
 266	¿ Les gustó el primer show de ? No se olviden de descargar la app Univison Conecta para participar mañana . 	1
 267	ajaja gracias broo !! :D ^^ yo estaba en tu bando ajajaj FNAF4 EVER ! xD red heart	1
 268	No hemos entrado a homeroom y ya me anunciaron el primer examen upside-down face	0
@@ -294,13 +294,13 @@ uid	text	label
 293	Atractiva Segura y Libre S A L H U A W O M A N .. the Dress .. 	2
 294	angie in dry season = llakaness jajajaja	0
 295	aió me voy chau Bungy Centre 	0
-296	RT : Le daría " skip " a todo hasta llegar a escuela de Medicina .	1
+296	RT : Le daría  skip  a todo hasta llegar a escuela de Medicina .	1
 297	¿ Listo para el Lip Sync Battle que nos trae hoy ? Verás como en el . 	1
 298	RT : Quizá parezca pedir demasiado pero se que tu también lo has deseado	0
 299	No quiero que se acabe el camp worried face	0
 300	just an ignorant kiddo que no se ha orientado bien sobre el feminismo y está fronteando con su misinformation .	0
 301	RT : Que es esa mierda de campamento de verano de 18-25 años ? No se supone que en verano se trabaja ? Grow up kiddos . face with tears of joy	2
-302	RT : " si todos me ven por la calle gritan breaking rap " 	1
+302	RT :  si todos me ven por la calle gritan breaking rap  	1
 303	time to swim in the sea !! Blusa $15.00 Escoge tu outfit favorito y realiza tu pedido ( whatsapp ) al 096.880.7384 	1
 304	 	1
 305	RT yamilo : Rt si encontraste al Panda 	1
@@ -330,7 +330,7 @@ uid	text	label
 329	Ajajjajaj lol jajaajaj 	2
 330	La mitad de mi comforter está en el piso y no lo puedo trepar a la cama porque mi perrito se durmió encima .	0
 331	andre ohh yo quiero .. . jelly	1
-332	" : Highest IQ in the world .. 	1
+332	 : Highest IQ in the world .. 	1
 333	Mi TL está lleno de gente que pide que actives notificaciones de Insta . Stahp , pls .	1
 334	La vida es muy corta para usar ropa aburrida para la oficina ! 	0
 335	¡¡ NUEVO VÍDEO !! He hecho una TONTERÍA .. . Aunque decir una sería quedarse corta . D: Like y RT !! 	2
@@ -340,11 +340,11 @@ uid	text	label
 339	Sube el nivel de tus selfies con un selfie stick . Simple , pero efectivo . 	1
 340	Ughhhhh este update pouting cat face	0
 341	“ : TGI espero pronto verte ! Mucho de que hablar !! ” y que si Tenemos q hablar . a	2
-342	RT : " Tu has cambiado " bueno si , todas las mierdas que me han pasado han tenido efecto	1
+342	RT :  Tu has cambiado  bueno si , todas las mierdas que me han pasado han tenido efecto	1
 343	RT : Por favor oren por mi tío . Tenemos Fe de que Dios lo sanará . Hoy por él , mañana por ti . 	0
 344	Va pa la jeep .. 	1
 345	Como no amarte VIERNES outfit del día Blusa 19.90 Black pant 22.90 Envíos 096.880.7384 ! 	0
-346	" : HOLD YOUR HORSEEESSS ! HOY CUMPLE MI MAIN HOE !! LA MEJOR DE LAS MEJORES . LOVE YOU BABEE 	2
+346	 : HOLD YOUR HORSEEESSS ! HOY CUMPLE MI MAIN HOE !! LA MEJOR DE LAS MEJORES . LOVE YOU BABEE 	2
 347	Qué he aprendido en mi año senior ? Todas mis contestaciones tienen algo mal .	1
 348	RT : Eye contact esta cabron y mas cuando te sonríen	1
 349	No need to worry ! The issue of the missing blue color is one of the new changes with the Android Kit Kat update . ~ MH	0
@@ -388,7 +388,7 @@ uid	text	label
 387	Todo lo que deseo es un outfit perfecto para ser FELIZ 	1
 388	Los facial piercings son tan asquerosos	0
 389	Una buena inversión para look de oficina es la clásica camisa blanca de botones de manga larga . Pega con todo y te verás elegantísima	2
-390	+ " no te vas hacer otra manicura si te tienes que poner guantes anyway " -ok pues pintamelas tu y ya .. . + " pfftt .. ok ya te hise la cita "	2
+390	+  no te vas hacer otra manicura si te tienes que poner guantes anyway  -ok pues pintamelas tu y ya .. . +  pfftt .. ok ya te hise la cita 	2
 391	Sweet white dress Collar Shoes Mira este ! Para que usarías este vestido ?! 	1
 392	RT : No se que es mas dificil de pedir ; pegarme en el power ball o una relacion madura .	2
 393	RT SS : Video nuevo .. . Channel : Be The Adventure 	1
@@ -409,11 +409,11 @@ uid	text	label
 408	RT Negron : Puedo ponerme hoodies sin bra watermelon	2
 409	Primero me caigo yo y salvo mi telefono	1
 410	½ Hola . Tenemos opciones para agregar MB ó GB , según sea su plan . Nuestros planes MORE EVERYTHING son sumamente flexibles , ~ MV	1
-411	RT : parece que aun los Bravos de Atlanta quieren robar base ante Christian " The Sniper " Vazquez 	1
+411	RT : parece que aun los Bravos de Atlanta quieren robar base ante Christian  The Sniper  Vazquez 	1
 412	Ooook , una horita para el vlog .. .	1
 413	Wtf como que ya hoy es miércoles ¿ ?	2
 414	RT : no creo que veas este collage , pero si lo ves , que sepas que lo he hecho con mucho cariño ! 	2
-415	" bebo77 : Cuando crees que vas a coger un cojon de RTs y coges como 2 	1
+415	 bebo77 : Cuando crees que vas a coger un cojon de RTs y coges como 2 	1
 416	RT : ¿ Por qué crees que el cabello es un importante signo de femineidad ? Participa en nuestro chat 	1
 417	Habrá una Fila tan larga como la d Hoy en VS ?!	0
 418	Aún podéis ver la historia completa de la fiesta de ayer en Snupchut . No tiene desperdicio . User : yellowmellowmeh . grinning face with big eyes OK hand	2
@@ -429,7 +429,7 @@ uid	text	label
 428	jajajjajaa si si de nada vale tener record si no ganas el campeonato	1
 429	RT : 	0
 430	Todo el mundo dandole screenshots a mis snapchats OKEY	1
-431	“ : ! " : 3 Cita del día 3 stop of the day !! !! !! "” flaca nos tenemos q ver con Carlis thumbs up tennis	2
+431	“ : !  : 3 Cita del día 3 stop of the day !! !! !! ” flaca nos tenemos q ver con Carlis thumbs up tennis	2
 432	RT : Need : ser linda	2
 433	RT : GREEN PUÑETA !! !! !!	2
 434	RT : El mejor freestyle que he escuchado en mi vida !! !! 	0
@@ -466,7 +466,7 @@ uid	text	label
 465	Pantalones holgados de Moda este otoño 	1
 466	RT : Ya listos en MQB para comenzar el confesionario presentado por VERIZON la red más velos del país . Disfrútalo . 	1
 467	RT : Estoy viendo en la tv Batman Begins y se me ha venido a la imagen el nuevo videoclip de me encanta , os lo reco 	2
-468	" : Se reporta la renuncia del CEO de " Eso va d mal en peor !	0
+468	 : Se reporta la renuncia del CEO de  Eso va d mal en peor !	0
 469	hazle el playlist a tu novia	1
 470	Hoy es el día que veo a crush moti	0
 471	with repostapp . ・・・ Todos Pongan ( El Vacilon De La Gatita ) Por 106.7 FM .  	1
@@ -490,14 +490,14 @@ uid	text	label
 489	RT : Fiestas de la Calle San Sebastián turns Puerto Rico 's Old San Juan into the party capital of the WORLD !! ! 	2
 490	La verdad es que es muy práctica para cuando no tiene acceso a un computadora , pero tambien puede entrar en su PC o tableta ~ MV	2
 491	Cada año la gente pone el árbol de navidad más y más temprano . Gente esperen al menos thanks giving . Cómo van a poner el árbol el 1 de nov ?	2
-492	" No se van a veeel " a to 'a boca cat face with tears of joy cat face with tears of joy	0
+492	 No se van a veeel  a to 'a boca cat face with tears of joy cat face with tears of joy	0
 493	ohhh pues sorry grinning face with big eyes	2
 494	ME ACABO DE COMPRAR MUCHOS BLU RAYS DE DISNEY ESTOY MU LOCA Y MIRAD A VER PORQUE OS HE DEJADO SIN EXISTENCIAS	1
 495	RT : Hoy viernes de Happy Hour prueba un cambio de look con una cola de caballo alta . Quedarás divina !	2
 496	Cuando subes un Tema de Rap por fin ! y cuando lo ves al dia siguiente con mas de 100K ! XD 	2
 497	Blanca Soto Ninel Conde y Pamela Silva en los Latin GRAMMYs .. . 	1
 498	Call Of Duty BLACK OPS 3 RAP | KRONNO , ZARCORT , CYCLO & PITER G | ( Videoclip Oficial ): 	1
-499	Por un momento pense que tinder era un app que se encontraba under " games " en el appstore	2
+499	Por un momento pense que tinder era un app que se encontraba under  games  en el appstore	2
 500	Fire drill a las 9 .. . matame	0
 501	RT : Quiero gafas y ropa y lingerie y carteras y sandalias y tennis y trajes de baño y prendas y pegarme en la loto :)	2
 502	Prisci i mean eres humana .. . Si no tienes go to a doctor	2
@@ -521,7 +521,7 @@ uid	text	label
 520	RT : necesito un buen party estilo 9no ..	0
 521	RT : hoy saca el videoclip estoy así : 	1
 522	Me ha gustado un vídeo de de ( 	2
-523	" Cuida 'u que yo tengo mucho bumper y no quepo " - abu cat face with tears of joy	1
+523	 Cuida 'u que yo tengo mucho bumper y no quepo  - abu cat face with tears of joy	1
 524	El team . 	1
 525		2
 526	Junto a Vela de y-95 José Martí . 	1
@@ -533,7 +533,7 @@ uid	text	label
 532	“ : Trio de reinas magdaproducer en 	1
 533	Esa mierda de RT for prom esta bien patético puñeta	1
 534	Alguien tráigame café a mi casa plz omg	1
-535	+ " escucha musica y relajate que te salen zits y hoy no es el dia para eso "	1
+535	+  escucha musica y relajate que te salen zits y hoy no es el dia para eso 	1
 536	le gane a la alarma .. . ughh why ?	2
 537	RT : ¡ te podría mandar un tweet exclusivo ! Participa en las 48 horas de música , menciona 	2
 538	RT PizzaNinja : tardes en PR be like : 	2
@@ -543,17 +543,17 @@ uid	text	label
 542	RT cordova3 : JAJAJAJJAJAJAA ACCURATE AF 	2
 543	RT : OMG ! Leo esto ahora XD ¿ TE ASUSTAN LOS PATOS ? WHAT THE HECK . ESTO DEBE ARREGLARSE SI O SI	2
 544	RT : Me gradúo y todavía no llegan los resultados del college	1
-545	Grabando el tema de " The Division " en colaboración con este pedazo de artista ^^ Se viene lo buenoooooo !! !	2
+545	Grabando el tema de  The Division  en colaboración con este pedazo de artista ^^ Se viene lo buenoooooo !! !	2
 546	¿ A cuantos RT Y FAVS llegamos para el pedazo de RAP PLAY de hoy ZOMBERS ? Spain 	2
-547	" : tenemos que salirrrr y ariana tambien antes de que se vaya . " yass pleaseee	2
+547	 : tenemos que salirrrr y ariana tambien antes de que se vaya .  yass pleaseee	2
 548	Fast fwd al dia de la graduacion yaaa face with steam from nose	2
 549	Clasico en negro y Muy fashion con moño pokadots 	2
 550	El ultimo video que hago con mi pelo preshioso !! XD BREAKING RAP | KRONNO ZOMBER ( Prod . por Brian O 'donell Beats ) 	2
 551	Happy in Love ! Its all about the shoes tonight ! whitesuit by and botties  	1
-552	" Ooh " JAJAJAJAJJAJAJAJAJAJJAA 	2
+552	 Ooh  JAJAJAJAJJAJAJAJAJAJJAA 	2
 553	Yo vivo en ocean y la playa de aquí me apesta .	0
 554	Hasta cuando andes a la carrera , con Verizon 4G LTE cuentas con la red más grande y confiable del país . 	2
-555	RT KarenDoblas : Apenas vi el vlog de ayer , y hubiera sido mejor que el título fuera " EN EL CINE CON WILEMÍ " Te am  face with tears of joy face with tears of joy face with tears of joy face with tears of joy	2
+555	RT KarenDoblas : Apenas vi el vlog de ayer , y hubiera sido mejor que el título fuera  EN EL CINE CON WILEMÍ  Te am  face with tears of joy face with tears of joy face with tears of joy face with tears of joy	2
 556	RT : El outfit de hoy gracias a 	1
 557	“ ATRA : Embelda queeeeee tengo mas que dos o tres personas en mi timeline ya que he mutiao a la mayoria ” x2 face with tears of joy	2
 558	RT : Se perdió mi perrita por el área de la urb . Villa Borinquen , calle Duero . Esto queda en la ave . Roosevelt !! ! HELP !! ! 	0
@@ -576,8 +576,8 @@ uid	text	label
 575	RT : el all nighter viene duro	1
 576	7:30 am anota las 2 pegadizas de para Ganar entradas El Nuevo zol 106.7 fm 	2
 577	Hoy es un día precioso y hay que disfrutarlo con un Casual look - Kimonos 	1
-578	Zombers !! ! Estas navidades se estrena algo grande !! ! El Album de " YO SOY UN RAP PLAYER " smiling face with heart-eyes red heart	2
-579	" : me motivé pal senior prank " yo más .. me siento cool por elaborar la idea jajaja new moon face full moon face	2
+578	Zombers !! ! Estas navidades se estrena algo grande !! ! El Album de  YO SOY UN RAP PLAYER  smiling face with heart-eyes red heart	2
+579	 : me motivé pal senior prank  yo más .. me siento cool por elaborar la idea jajaja new moon face full moon face	2
 580	jajajajajajajajajajaja que weekend mas cabron jajajaja	2
 581	RT : pa ' ahora plssss 	2
 582	De Camino Camioneros Con fescue to para diesel y entradas Al concierto Ricardo Arjona  	2
@@ -600,7 +600,7 @@ uid	text	label
 599	us gracias x el cd !! !!	2
 600	RT : Yo a veces picheo pero no me lo hagan a mí . Me do n't likey	0
 601	Respuesta : la capacidad de memoria más alta para una tarjeta microSDXC es de 2 TB de datos .	1
-602	He visto el tweet de " te vas a quedar en el 2015 " más de 25 veces for real , carajo	0
+602	He visto el tweet de  te vas a quedar en el 2015  más de 25 veces for real , carajo	0
 603	¡ Gracias ! RT : America 's top network is .. . 	2
 604	Por que El credito NO IMPORTA ! 957miami 	1
 605	Y ASI se siente Y vive México  	1
@@ -611,7 +611,7 @@ uid	text	label
 610	Hoy hay que llegar a sj a las 8 para conseguir parking	1
 611	Viendo Walking Dead .. .	1
 612	Throw a Spring Break Rosada La Parguera , Lajas PR . 	1
-613	RT : Drake looks like a Dominican uncle " tirame una cerveza loco " 	2
+613	RT : Drake looks like a Dominican uncle  tirame una cerveza loco  	2
 614	Sin duda hoy hemos vivido un momentazo épico jugando al billar y yo ! No tenemos rivales , deberian llamarnos INVICTUS ! JAJA face with tears of joy victory hand light skin tone	2
 615	Recordad que hoy no hay vlog porque es domingo de Snupchut . User : yellowmellowmeh . grinning face with big eyes	2
 616	Photoshoot de la nueva colección . Día de Lanzamiento 17-10-15 En el Centro de convenciones 9:00 am - 18:00 pm 	2
@@ -640,21 +640,21 @@ uid	text	label
 639	RT : por favor ayudanos a encontrar jovencito desaparecido 	1
 640	Si yo no veo esfuerzo , pa que esforzarme yo ?	0
 641	Brutal ! 	2
-642	RT : - " Tu eres bicha " 3 meses despues - " Diablo tu eres bien afuego y sweet , es que tienes cara de bicha al principio " V 	2
+642	RT : -  Tu eres bicha  3 meses despues -  Diablo tu eres bien afuego y sweet , es que tienes cara de bicha al principio  V 	2
 643	Lista para empezar el mejor fin de semana luciendo super chic ? !! !! ! Escoge to look favorito y adquierelo ya !! !! 	2
 644	with repostapp . ・・・ Vestido : gianninaazar shoes :  	1
 645	hay nena tan malo , q te mejores . Estoy buscando un cake de Angry Birds	1
-646	RT sola : by " sujeylee she 's the best ! " via instareposts 	2
+646	RT sola : by  sujeylee she 's the best !  via instareposts 	2
 647	RT : Me ha gustado un vídeo de de ( 	2
 648	Yo creo que de la única persona que leo tweets que con los que no estoy de acuerdo y no me enojo es Los demás FU smiling face	1
 649	Donde estan todos los bobby pins perdidos ?	1
 650	RT : una relación no funciona sin bullying mutuo	1
 651	Youtube esta toca pelotas con los Copyrights ¿ me voy a tener que cabrear y meterle un STRIKE a los de Youtube para que se relajen un poco ?	2
-652	" : MOTI PA IRNOS PATABAJO ?! " Nigga the question is are you ready ?! ?? ! BIEN FUCKING ACTIVE DESDE LAS 7 AM	2
+652	 : MOTI PA IRNOS PATABAJO ?!  Nigga the question is are you ready ?! ?? ! BIEN FUCKING ACTIVE DESDE LAS 7 AM	2
 653	Lunes festivo , y Pq para mi ? Workingmode on semana de Estoy lista ! dress high-heeled shoe necktie jeans clapping hands thumbs up	2
 654	RT : necesito un Arby 's en PR	1
 655	RISAS + Cómo se rodó Rise of theTomb Raider RAP | KRONNO ZOMBER | MAKING OF 	1
-656	RT : " MI ELVIRA HANCOCK , MI MIA WALLACE , MI MARLA SINGER .. . SE FUE EN LA MALA " LINK : 	2
+656	RT :  MI ELVIRA HANCOCK , MI MIA WALLACE , MI MARLA SINGER .. . SE FUE EN LA MALA  LINK : 	2
 657	cabrera OUUUCHHHH . que harsh	2
 658	No vine más tirá a la uni hoy porque literalmente parecería un hobo .	0
 659	¡ ! ¿ Qué porcentaje de los norteamericanos usan emojis cada día ? A ) 35% B ) 45% C ) 20% D ) 60%	1
@@ -678,15 +678,15 @@ uid	text	label
 677	Nos vamos a Milán a los EMAs con .. . WHY THE FUCK NOT . 	1
 678	Nuestras oraciones nos unen en un solo corazón con 	2
 679	Necesitaba un descanso mental y siento que este fin de semana me lo ha dado . ESTA SEMANA VUELVO A LA CARGA BABIES . police car light	1
-680	RT : " No tengo prom date , no tengo fuck buddy mi vida sokea . "	1
-681	" : Best Buy Chief Resigned After Inquiry Into Personal Conduct 	1
+680	RT :  No tengo prom date , no tengo fuck buddy mi vida sokea . 	1
+681	 : Best Buy Chief Resigned After Inquiry Into Personal Conduct 	1
 682	Una canción . Una tarima . Una oportunidad . Descarga el app Univisión Conecta y vota por tu artista favorito . 	1
 683	Presentan candidatas a Miss Puerto Rico Petite 2015 	1
 684	RT : En un mood de estar en un sitio que haya una bandita y toquen canciones de Tommy Torres , Caramelos , El Canto del Loco , Ja 	1
 685	Buah medio millón ya !! !! ! increible !! ! Mortal Kombat X | RAP PLAY - KRONNO ZOMBER 	2
 686	RT : Massa fan de la relació - als Vlogs de la Melo face with tears of joy face with tears of joy face with tears of joy face with tears of joy	2
 687	Sunnyday un print dress viene perfecto ARE OPEN Urdesa circunvalación sur 723 y guayacanes 	2
-688	RT : HS Student : Can we learn about budgeting and taxes ? Teacher : " PARAAAAABOLAAAAASSS !! !! " 	1
+688	RT : HS Student : Can we learn about budgeting and taxes ? Teacher :  PARAAAAABOLAAAAASSS !! !!  	1
 689	orando por - Praying for	1
 690	RT Colon : Sii plz 	2
 691	Feliz Domingo desde 	2
@@ -696,7 +696,7 @@ uid	text	label
 695	Alguien traigame una taquilla a casa plz	1
 696	Me ha gustado un vídeo de de ( 	2
 697	RT : Boda 	2
-698	RT : " You only wear makeup because you feel insecure " No , I feel confident with and without it . 	1
+698	RT :  You only wear makeup because you feel insecure  No , I feel confident with and without it . 	1
 699	Tip de : Añade un plan de larga distancia internacional y mantente en contacto 	1
 700	RT : hola Kronno nos gustaría que agas un concierto en el luna Park por fis antes de las fiestas o en el 2016 pero 	1
 701	RT : Voy a preparar stickers en el futuro , así que pendientes !! 	1
@@ -711,7 +711,7 @@ uid	text	label
 710	RT 555 : xa ti hermosa a disfrutar de este fin de semana te quiero mucho bendiciones siempre besos y abrazos	2
 711	Puta tus cejasssss , k , bye	0
 712	Ana Maria Polo hubiera solucionado este caso en 30 minutos . Acaso hay un sleepover en el tribunal ?	1
-713	" Im not even going to bring up TS " la destruyo nasty . 	0
+713	 Im not even going to bring up TS  la destruyo nasty . 	0
 714	RT : Con pasión y un ritmo imparable , ¡ aquí llega el Top 3 de la categoría de úsica ! 	2
 715	No se pierdan el look Muy sofisticado y elegante en vestido	2
 716	-LOCA , CUANDO EMPIEZAS CLASES EN AGOSTO . -NPI - VAMOS A VER A HALSEY A NY EN AGOSTO .	1
@@ -731,9 +731,9 @@ uid	text	label
 730	RT vet : Si la vida es corta .. tacones siempre altos .. :) veronicaquirozm 	2
 731	RT : Resumen de mi vida en un gif . 	1
 732	ruescas Lo que yo no entiendo es el por qué de todo eso . O trauma con booktuber y necesidad de venganza o retraso severo .	2
-733	RT : Todo el mundo con los " puesto/a pa " tweets y yo solo estoy puesta pa ' la pizza 24/7 .	2
+733	RT : Todo el mundo con los  puesto/a pa  tweets y yo solo estoy puesta pa ' la pizza 24/7 .	2
 734	sandyc1067 vegapower 6-11  	1
-735	RT : Retweeted Jose Luis Nuñez ( ): " Yo no dejo que mis hijos jueguen a videojuegos porque incitan a la .. . 	1
+735	RT : Retweeted Jose Luis Nuñez ( ):  Yo no dejo que mis hijos jueguen a videojuegos porque incitan a la .. . 	1
 736	Look forward with hope ; not backward with regret ! GYPSY SUMMER Blusa floreada ( escote atrás ) 	2
 737	Jajajaja jurau , hello es esther 	1
 738	Wifi en el hotel fack yassss raising hands medium-light skin tone	1
@@ -790,7 +790,7 @@ uid	text	label
 789	Los TA 's son un 0 a la izquierda . No saben nada .	0
 790	Yeahhhh super mil gracias . com 	2
 791	El día que abran un Joe 's Crab Shack en PR seré la persona más feliz del mundo	2
-792	RT : Un preview de lo que viene para el video oficial de " Incógnito " 	1
+792	RT : Un preview de lo que viene para el video oficial de  Incógnito  	1
 793	“ : ay !! ! Ya vuelve Angie !! ! Bea y yo te extrañamos mucho ” yo también , ya soon wey ! weary face tired face kiss mark	0
 794	Empieza el fin de semana bien con un poco de football . en NFL Mobile . Incluido en Verizon . 	2
 795	En casa pidieron buffalo wings	2
@@ -816,7 +816,7 @@ uid	text	label
 815	Mónica Noguera 	2
 816	RT : Paz interna es cuando sabes que has encontrado a la persona con la que no importaría compartir el resto de tu vida .	2
 817	011 horrible ! Ayer compre un calendario en bed bath y beyond !! Horror total !	0
-818	RT pantoja : Si estamos en el " eye contact " regalame una sonrisa puñeta	1
+818	RT pantoja : Si estamos en el  eye contact  regalame una sonrisa puñeta	1
 819	veo un sc de alguien janguiando y quiero janguiar , veo a alguien viendo netflix y quiero ver netflix .. . no me entiendo	2
 820	RT : * hangs out with Lana Del Rey once * 	1
 821	RT z : DIA BLO LOS BURRITO DAYS DE LA ACADEMIA PUEDO VOLVER A HIGH SCHOOL ? 	1
@@ -833,7 +833,7 @@ uid	text	label
 832	Despertar y ver esto es el mejor regalo . I love my Beau .  	1
 833	“ : De fiesta con las niñas sujeylee 	2
 834	Niños , no ha habido MeloMore por el pésimo wifi que hay aquí . Hoy vuelo a Colombia , así que en cuanto pueda iré subiendo los vlogs , ¿ vaye ?	1
-835	Los mejores " selfies " con la cámara de 21 MP del . Sé la estrella . 	2
+835	Los mejores  selfies  con la cámara de 21 MP del . Sé la estrella . 	2
 836	RT : Esta época o te pone melancólico o te pone alegre , no happy medium .	0
 837	Necesito un handbook e instrucciones de como hablar con alguien en el siglo xxi porque esto está difícil unamused face	1
 838	Se me cierran los ojitos ya .. . pero lo he logrado !! Nueva batalla ! y la siguiente CIVIL WAR !! 	2
@@ -845,7 +845,7 @@ uid	text	label
 844	¡ Gracias por su interés ! Tenemos planes que le pueden ayudar . ¿ Qué incluye su plan actualmente ? ¿ Aprox . cuántos GB usa ? ~ AS	2
 845	Eso eh !! ! América se mueve con 	2
 846	Tu Dia de suerte hoy ganas Suit Privado 	1
-847	RT : " Pedro stop we are at escuela " " shut up and kiss me Maria Jose " 	2
+847	RT :  Pedro stop we are at escuela   shut up and kiss me Maria Jose  	2
 848	Comiendo rico , mi Platillo favorito 	2
 849	RT : Miami New Times esta eligiendo lo mejor de Miami y nuestra a sido selecciona  	1
 850	el sc story de Rio me la explota	0
@@ -874,7 +874,7 @@ uid	text	label
 873	RT : Gracias Taco Bell por existir loudly crying face loudly crying face smiling cat face with heart-eyes	1
 874	HAHHAA Parece el vomito de un perro bro .. . T T Esto es lo que pasa cuando no está .. . :(	0
 875	este aereopuerto tiene PINK BERRY:') I 'm in looveee	2
-876	RT : Como q " not charging " ?? ? Ya le puse el cable . Q mas quiere ? Vaselina ?	0
+876	RT : Como q  not charging  ?? ? Ya le puse el cable . Q mas quiere ? Vaselina ?	0
 877	Pensé los perdí y los encontré ñana 	1
 878	Creo que chonkie 	1
 879	Jajajajaja chill pikl	2
@@ -888,7 +888,7 @@ uid	text	label
 887	RT :	2
 888	RT : Mi familia es la mejor , la fucking dura .	1
 889	Sea acaban de escuchar Muchas detonations por Lomas Verde , Bayamon .	0
-890	" Puse la botella en el freezer " " Pa que ? " " Pa que esté fría y rica canto hijeputa " Okkkkkkkkk	2
+890	 Puse la botella en el freezer   Pa que ?   Pa que esté fría y rica canto hijeputa  Okkkkkkkkk	2
 891	RT tulipanes : Yo lo que necesito es un buen beso , que me ayude a olvidarme de to ' .	2
 892	Hablar sobre viajes cuando el viaje más grande que has hecho ha sido a Matalascañas . Bitch , please .	0
 893	El look de en con vestido de TBT y Joyas 	1
@@ -897,7 +897,7 @@ uid	text	label
 896	ESTOY SIN VIDA ! CON ARENE MILLER ! | Juegos del hambre EP . 8 | Minecraft : 	2
 897	recuento en fotos ! 	2
 898	RT : !! mia astral 	1
-899	by " Mi look de hoy para gracias por la ropa y Andrea Castro  	2
+899	by  Mi look de hoy para gracias por la ropa y Andrea Castro  	2
 900	Estar en el station de Reik y que te salga SexyBack . Wtf pandora	2
 901	VIVO en - 	2
 902	He editado el vlog de hoy , he grabado para YellowMellow , he editado ese vídeo y ahora mismo se está exportando . MAÑANA ULTRA PRODUCTIVA .	2
@@ -915,7 +915,7 @@ uid	text	label
 914	. 	2
 915	Million dollar ideas	2
 916	Ganador LA Gorra junto a 	1
-917	Zombers ! Estoy viendo la pelicula de EQUALIZER " Justiciero " y he tenido que parar para poner este twit y deciros que es Awesome ! Miradla ! smiling face with heart-eyes	2
+917	Zombers ! Estoy viendo la pelicula de EQUALIZER  Justiciero  y he tenido que parar para poner este twit y deciros que es Awesome ! Miradla ! smiling face with heart-eyes	2
 918		1
 919	RT : Puedo decir que todas las canciones de me fascinan , pero la de Youtubers Life ha marcado diferencia en mi . 10/10 	2
 920	RT : ! reyes y Baby !! ! 	1
@@ -933,7 +933,7 @@ uid	text	label
 932	RT : Hoy le preste mi styling a chino y Nacho si me la regresan porfa Cc jajajaja Love u por chingona frien  face screaming in fear face screaming in fear face screaming in fear face screaming in fear face screaming in fear	1
 933	RT : 26 de marzo de 2016 : Todavía estoy dándole unlike a páginas en Facebook que añadí en el 2011 .	2
 934	Sach , por cada fucking esquina 	1
-935	hay una nena en la uni que me regaña cada vez que digo " duro " porque eso es de yales confused face	0
+935	hay una nena en la uni que me regaña cada vez que digo  duro  porque eso es de yales confused face	0
 936	Con esta app tienes un contador en tu celular las 24 horas 	1
 937	6 a 11 am 	1
 938	RT : ・・・ Quien será ?? ?? Pendiente a las 8:25 am este Lunes a 26 días para el  	1
@@ -972,7 +972,7 @@ uid	text	label
 971	Grand Slam Party Latino Grand Slam Party Latino 	2
 972	Nuestra Nuevo jlo azucenacierco Bella y elegantisima stylist  	2
 973	¿ Alguien en maya que me acompañe a comer en happy bowls por favooor ? grinning face with sweat	1
-974	RT : Por fin !! Ya esta descargandose " Yo soy una rap-player " de ¡¡ Que emoción !! Z4E 	1
+974	RT : Por fin !! Ya esta descargandose  Yo soy una rap-player  de ¡¡ Que emoción !! Z4E 	1
 975	RT : Morir haciendo math estaría triste cc wowowowowowwowww	0
 976	RT : Ex Man- PJ Sin Suela	1
 977	“ : Problems are not stop signs , they are guidelines . Robert H . Schuller ” Happy bday flaca . Nos vemos proto para mangiare	1
@@ -1015,7 +1015,7 @@ uid	text	label
 1014	RT : Fuimos detrás de escenas con en la entrevista de 	1
 1015	gonzalez Me encantaría ayudarle a revisar otras opciones de planes . Para más detalles por favor síganos y envíe un DM . ~ MV	1
 1016	RT : Vestido hoy al terminar los esperamos pa echar el chal & 	1
-1017	RT : " : Famous Dave ’s celebra Ribtoberfest - 	1
+1017	RT :  : Famous Dave ’s celebra Ribtoberfest - 	1
 1018	No era de las que quotiaba sin escribir na , pero no me gusta el ' quote ' nuevo de twitter .	0
 1019	Imagen Modeling by La Gatita happy 	1
 1020	RT : Nos encanta tu single y por eso hemos hecho este video . All I Think About 	2
@@ -1029,7 +1029,7 @@ uid	text	label
 1028	Espero con todas mis fuerzas , que fucking Taylor se lleve el best album puñeta	2
 1029	RT cordova3 : tu audio message acaba de afectar mi audición	0
 1030	RT : Próximo Domingo Mucho Old School en Brava con Dj Luian - Open Bar de 9-10pm 	2
-1031	Le di rt y me salió " tweet not found " okaps , dale	1
+1031	Le di rt y me salió  tweet not found  okaps , dale	1
 1032	Lo único bueno que me trajo la gastritis es que mami se dio cuenta de todo el stress que realmente tengo y ahora no me mete presión .	1
 1033	Mi senior ring ya me queda demasiado grande y no puedo bregar	1
 1034	aw hace 3 años fue mi partybus	1
@@ -1108,7 +1108,7 @@ uid	text	label
 1107	mi mayor riqueza , mis niñas .. . con quienes paso horas mirándolas y lo que me hace sentir la  	1
 1108	Que Comience la Fiesta dj sheriff BENDICIONES happy  	2
 1109	RT : YO NO NACI PA QUE ME QUIERAN A MEDIAS NI CUANDO SE SIENTAN SOLOS CON SU MISERABLE VIDA , SORRY PERO VALGO DEMASIADOOOO COMO 	0
-1110	by beatrizstylist " tvnovelas . Espero que hagan sus compras  	2
+1110	by beatrizstylist  tvnovelas . Espero que hagan sus compras  	2
 1111	Tetilocas everywhere sparkling heart	2
 1112	Happy and in style with my shades . I am q chica Feliz y a la Moda con Mis gafas  	2
 1113	Tengo que ponerle bubble wrap a el frame de la puerta de mi closet me sigo llegando la esquina con la rodilla :/	0
@@ -1117,7 +1117,7 @@ uid	text	label
 1116	RT : Lenguage de Señas debe ser un requisito para futuros doctores , just saying .	0
 1117	RT : Disfrutando de mi isla 	1
 1118	la large entonces basta , x large es mucho pa ti	1
-1119	Que no falte el clasico tweet del primero de sept : " Wake me up when September ends "	1
+1119	Que no falte el clasico tweet del primero de sept :  Wake me up when September ends 	1
 1120	Santa Rosa I , Sec Los Lopez . Guaynabo .	1
 1121	. no ! Jee y de nada por tus nuevas camisas de Chef !	1
 1122	Living in colors ! Disfrutamos más de la vida si la llenamos de colores ! Abiertos hoy hasta las 6:30 pm 	1
@@ -1137,10 +1137,10 @@ uid	text	label
 1136	Acabo de ver la peli de Batman vs Superman en el cine y se merece un Rap .. . 	2
 1137	necesito un nap para recuperarme de los naps de ayer	0
 1138	jajaj true face with tears of joy	0
-1139	RT : cuando tuitea " quiero alguien pa tener muchos date y pal cuddleeee " I 'm over here like 	2
+1139	RT : cuando tuitea  quiero alguien pa tener muchos date y pal cuddleeee  I 'm over here like 	2
 1140	JAJAJAJAJ yo cuando vi tu cara .. yo shit shes on to me .. . deny deny mayday mayday L I E !	0
 1141	Se viene videazooooo !! !! ! en un rato lo tendréis en el canal !! ! ^^ UNCHARTED 4 RAP !! 	2
-1142	RT : " Te quiero a las 1:30 AM en casa " 	1
+1142	RT :  Te quiero a las 1:30 AM en casa  	1
 1143	Hoy llega ella ! Una de mis favoritas .. .  	2
 1144	omg en Garden Hills no hay luz que se supone que haga con mi vida	1
 1145	RT : I could be so down for you , put so much effort into you but if you can n't reciprocate the effort . Takes two to tango . Goodbye .	0
@@ -1190,7 +1190,7 @@ uid	text	label
 1189	RT sofialugo : Que jodios cravings de comida china .	0
 1190	El y esta activeeeeeeee 	2
 1191	RT : Tener hambre VS tener comida W/ & on ( Versión extendida en IG : ) 	1
-1192	" : " no llores mas mujer que te sec as:'( loudly crying face loudly crying face loudly crying face loudly crying face	0
+1192	 :  no llores mas mujer que te sec as:'( loudly crying face loudly crying face loudly crying face loudly crying face	0
 1193	RT : He visto a y a en las noticias de la uno con un rap-play de Five Nights At Freddy 's y me emosiono smiling face with heart-eyes smiling face with heart-eyes	2
 1194	RT : Just Announced : Hard Rock Café to open in December 2014 	2
 1195	RT : aquí el que mando soy yo , el que tiene más flow , el que tiene más mala hostia que mou . * TURN DOWN FOR 	0
@@ -1201,7 +1201,7 @@ uid	text	label
 1200	Me ha gustado un vídeo de ( 	2
 1201	Trabajando hoy en Rueda de prensa jeans Saco  	2
 1202	dannpp86 with repostapp . ・・・ Con en  	1
-1203	" ¿ En dónde te aceptaron ? " " UPR " " Sí , pero ¿ en cuál recinto ? " " UPR , ya te lo dije " Oka .. . dale , thanks	2
+1203	 ¿ En dónde te aceptaron ?   UPR   Sí , pero ¿ en cuál recinto ?   UPR , ya te lo dije  Oka .. . dale , thanks	2
 1204	Ponte en Forma con La Gatita en Westland Mall 	2
 1205	El traje cute , bizcocho Nice , la doña con los cantos guindando YUCK !! ! Deja q llegue la MIA y ahí si q t hago un cuento !!	2
 1206	RT lol : Que me acabo de dar cuenta que mañana sale Phantom Limb de JAJAJAJAJA KHE 	2
@@ -1213,14 +1213,14 @@ uid	text	label
 1212	RT G : ¡ Madre mía chicos ! Vaya partidazas de Lucky Island estamos jugando y yo , si no nos ponen una estatu 	2
 1213	RT : tres vídeos pensados ? YellowMellow para rato ? 	1
 1214	El team pelo , maquillaje y Stylist javierdelarosae avilahec y yo con nin elconde 	2
-1215	" MIRA YA ESTAN ENTRANDO EL CAFE SE TARDA MUCHO ? " - doña aquí . Lo más seguro de Juana Diaz . ñozMarinAirport	2
+1215	 MIRA YA ESTAN ENTRANDO EL CAFE SE TARDA MUCHO ?  - doña aquí . Lo más seguro de Juana Diaz . ñozMarinAirport	2
 1216	acho te voy a block pal carajo !!	0
 1217	RT : Según google , mi nombre está en el top 5 de nombres de puta	2
 1218	Zombers ! En 2 dias se cierran las votaciones de premios vlogger ! Ultimo esfuerzo ! Solo se puede votar 1 vez ! Z4E 	1
 1219	RT : Yo no sé porqué tuve q crecer 	1
 1220	the devils lettuce jajajajjaja 	2
 1221	El vlog de hoy : DISNEYLAND PARÍS CERRADO 	1
-1222	“ : " See he 's her lobster "” . Nena tas juaquia con Friends !!	1
+1222	“ :  See he 's her lobster ” . Nena tas juaquia con Friends !!	1
 1223	Yo solo estoy viendo el superbowl por el half-time show relieved face	0
 1224	DAT CONCIERTO ! 	2
 1225	RT : El único regret que tengo y siempre tendre es el no poder rescatar a cuanto animal abandonado veo en la calle porque no tengo 	0
@@ -1230,7 +1230,7 @@ uid	text	label
 1229	RT fra : MI HERMANASTRO MIREN Su pierna GRACIAS A LAS DONACIONES , pero NECESITAMOS MAS para la otra , CUENTA Plase RT 	2
 1230	RT : yo quiero ser flaca y estar dura pero también quiero un hamburger y una batida de vainilla de buns	0
 1231	RT : Abrazos a las tres ! RT : Mis bellas y talentosas amigas fashion stylists .. .	2
-1232	by " Yei le dieron el anillos acá celebrando makyhinson "  	2
+1232	by  Yei le dieron el anillos acá celebrando makyhinson   	2
 1233	RT : Si no sabes escribir una palabra , búscala antes de escribir un disparate . Minimiza la fucking ignorancia .	0
 1234	Yo espero no tener fkn practica el viernes	0
 1235	MERA WOOOO Y ESE PITO SIN OUTSIDE ??	0
@@ -1250,10 +1250,10 @@ uid	text	label
 1249	Fun at work  	2
 1250	Levantarse y ver que el RAP que subí ayer a la 1 de la madrugada tiene casi 200K en unas horas ! Gracias ! 	2
 1251	Imagen Modeling by La Gatita 	2
-1252	" cabrero : a los primeros días de senior year otro sushi date , que dicen ? 	0
+1252	 cabrero : a los primeros días de senior year otro sushi date , que dicen ? 	0
 1253	Maldito Alcohol by Pitbull Vs . Afrojack , found with , Listen now : road trip a mitad de semana .. .. 	1
 1254	Para los fans de , ¿ cuál de estos teléfonos prefieren ? 	1
-1255	RT claurori : Desde " SEN10RS " , la realidad es que todos los años le tratan de meter el número por donde sea a to ' cojón . 	2
+1255	RT claurori : Desde  SEN10RS  , la realidad es que todos los años le tratan de meter el número por donde sea a to ' cojón . 	2
 1256	Ya Ready dj sheriff Feliz y Bendecido Jueves .. 	1
 1257	Mañana tendréis rap de mortal Kombat zombers !! ! pero el siguiente será un rap normal con la señorita ^^	2
 1258	RT : Me voy llevar a : Alejandro Garcia Padilla . Tempo . Ana Cacho . Maripily . Mr Cash .	1
@@ -1280,7 +1280,7 @@ uid	text	label
 1279	Aprovecha 2 docenas de donas por 10.99 en Dunkin Donuts 	2
 1280	MAÑANA VUELVEN LOS DAILIES . He tenido unos días no muy buenos , con mucho curro y cosas aburridas , pero os prometo que mañana vuelvo fuerte .	2
 1281	ninelconde with repostapp . ・・・ yousef aljasmi . Joyas  	1
-1282	Paco acaba de poner un snap cantando " Timber " de Kesha . jajajajajajja 	2
+1282	Paco acaba de poner un snap cantando  Timber  de Kesha . jajajajajajja 	2
 1283	Chicos necesita ayuda Zomber !! ! Todos con el hashtag y el mio gracias de corazon ! face savoring food red heart	2
 1284	Atractiva y libre ! Tus pedidos al 096.880.7384 	1
 1285	Mis peinados cuando estoy estudiando van de Mufasa a ballerina and back real fast .	1
@@ -1335,7 +1335,7 @@ uid	text	label
 1334	Dress clasy and flashy . Combine clasico con moderno Una camisa de encaje con falda neon , bolsa negra makyl 	1
 1335	Bueno con esta cifra me despido ! 200.000 descargas ! ^^ Espero que mañana sean otros 200K :D Buenas noches Zombers ! 	2
 1336	Westland mall todos los Domingos de 9a a 11a totalmente gratis  	1
-1337	" : Últimamente todos mis sc son iguales jajajaja " full blame it o the pollen !	1
+1337	 : Últimamente todos mis sc son iguales jajajaja  full blame it o the pollen !	1
 1338	RT : Y luego le dijo Sorry y lo saludo , si fuera Lebron no le dice UN CARAJO 	1
 1339	recién llegada a Miami 	1
 1340	Yo no tengo miedo de jugar al Black Ops 3 !! El que tiene miedo es en sus ultimos gameplays le tiembla hasta el mando ! pouting face pouting face smiling face with horns squinting face with tongue squinting face with tongue winking face with tongue	0
@@ -1344,7 +1344,7 @@ uid	text	label
 1343	RT : Calling all SUPER fans ! Wanna be the 4th judge ? Descarga Univision Conecta y participa con 	1
 1344	He domado a Winnie the Pooh !! :D 	2
 1345	RT : Nuevo tattoo de hoy ! Exito en tu pelea champion ! 	2
-1346	" : Cada dia encuentro menos razones para estudiar " p r e a c h ! jajajs	0
+1346	 : Cada dia encuentro menos razones para estudiar  p r e a c h ! jajajs	0
 1347	Mi unica clase de mañana es a las 3:00	2
 1348	Las guapas bellezas a las que tuve el privilegio de ser su Stylist blancasoto  	2
 1349	RT : Mandándoles a todos muchas buenas vibras desde Rincón ft . mi uke 	2
@@ -1359,7 +1359,7 @@ uid	text	label
 1358	Todos los Domingos en Westland Mall Hialeah . Gracias siempre a  	2
 1359	Pft jajajajajjajajaja 	1
 1360	Quiero que me llegue mi acceptance de Cayey yaaaa	1
-1361	El Trend " How to Shop Discreetly " te dice Donde estan los Especiales para Atraves de	1
+1361	El Trend  How to Shop Discreetly  te dice Donde estan los Especiales para Atraves de	1
 1362	Aghhh estos labs me tienen maaaaaal !! !! !! !! !	2
 1363	Osea Alaia esta en esta lista . The bitch made it to international news . 	2
 1364	Jajaja okay okay	2
@@ -1371,22 +1371,22 @@ uid	text	label
 1370	Look del Dia vestido de 	1
 1371	RT garcia2 : Por cuantos shots vas ? 	1
 1372	RT GD : Cuando ves el snap de y decis ¿ donde mierda queda esl ? 	0
-1373	Pa q vaya con el 42 " un Home Theater Sony 3D Blu-Ray DONE y BIEN DURO !! !	2
+1373	Pa q vaya con el 42  un Home Theater Sony 3D Blu-Ray DONE y BIEN DURO !! !	2
 1374	Llegados este punto nose si decir buenas noches o buenos dias ahre .. . Lo que sea xD que descansen Zombers ! winking face winking face with tongue	2
 1375	La sonrisa es la curva más hermosa en una mujer Open 11:00 a 7:00 pm 	2
 1376	blackjaguarwhitetiger 's video 	2
 1377	RT : Los celosos diran que es paint , gracias 	1
-1378	" Te debo tanto que ni te imaginas " - fan a justin bieber Por dios hay una línea entre ser fan e idolatrar un artista . Sepan diferenciar .	1
+1378	 Te debo tanto que ni te imaginas  - fan a justin bieber Por dios hay una línea entre ser fan e idolatrar un artista . Sepan diferenciar .	1
 1379	si estoy viendo	2
 1380	RT mar26 : Mami , you the real mvp	2
 1381	Increíble CHICA GAMER ya va por casi 9M !! ! Muchas gracias Zombers Brocolis ! :D jaja en fin .. . Buenas noches Zombers ! ^^ :D	2
 1382	Jajajajajajajajjaa these hoes aint loyal 	0
-1383	" Tengo plan Z , C , B , pero no tengo plan A .. . "	1
+1383	 Tengo plan Z , C , B , pero no tengo plan A .. . 	1
 1384	Mommy to be looks y que mejor Modelo que barbarabermudo . falda con  	2
 1385	RT : The glam team .. .. .. .. por que nosotros somos discoverymujer .. .. Te  	2
 1386	Me he encontrado con unos Zombers en minecraft y vamos hechar unas partis ! JAJA Super selfie ! 	2
 1387	azul Por el contrario , ¡ Gracias a usted por ser cliente preferido de VERIZON WIRELESS , a disfrutar el mundial , muy feliz día ! ~ MV	2
-1388	" : jajajaja que cuteee te amoo gingerrrr " always ! y love you too Nigga :)	2
+1388	 : jajajaja que cuteee te amoo gingerrrr  always ! y love you too Nigga :)	2
 1389	O M G ! Queeeeee carajoo ?	0
 1390	voy a vestir a bombon y a hopee de peces	1
 1391	“ : Look de hoy gracias a mi flaca amo el naranja 	2
@@ -1449,7 +1449,7 @@ uid	text	label
 1448	Civil War por segunda vez and I loved it igual .	2
 1449	RT : Veo este tweet de y mi reacción es .. . 	1
 1450	RT : By ⁰ 	1
-1451	De dónde salió el " mera wo " que ahora se pasa diciendo to ' el mundo y hasta yo tengo pegao' ?	2
+1451	De dónde salió el  mera wo  que ahora se pasa diciendo to ' el mundo y hasta yo tengo pegao' ?	2
 1452	Farewell mas memorable en asj :') 	2
 1453	Gracias al equipo de los Marlins por mi jersey 	2
 1454	Veo statuses viejos en los memories y me da vergüenza .	0
@@ -1481,7 +1481,7 @@ uid	text	label
 1480	Lost In Paradise motiva cc .	2
 1481	WOHOOO !! ! gracias smiling face with heart-eyes grinning face with big eyes grinning face with big eyes grinning face with big eyes	2
 1482	DI SI MI ROULING ! que raro que cantando con ese SWAG no te haya saltado el copy !! XDXP	2
-1483	" Victoria : te las voy a cubrir con base " B L A S F E M I A :O	0
+1483	 Victoria : te las voy a cubrir con base  B L A S F E M I A :O	0
 1484	Despertar y ver esto es el mejor regalo . I love my Beau  	2
 1485	RT : Mi look de hoy para me fascino !! gracias !! ! Aunq mi lazito me lo regalo !! 	2
 1486	pero yo creo que una medium te da	1
@@ -1494,7 +1494,7 @@ uid	text	label
 1493	¿ Android ? ¿ Windows ? El HTC One ( M8 ) viene en los dos sabores . 	2
 1494	Look de hoy unnuevodia vestido bloomingdale 's 	1
 1495	jajaja madrugar es like 6am face with tears of joy	2
-1496	RT : Siempre vienen con el " acho , tú tenías razón  " of course I did , you dumb shit	0
+1496	RT : Siempre vienen con el  acho , tú tenías razón   of course I did , you dumb shit	0
 1497	Fefa y yo estamos muy duras en beerpong	1
 1498	RT : Mis dos spirit animals en una misma foto 	1
 1499	RT : Besos Angie ! Que sea un 2014 súper fashion !	2
@@ -1531,7 +1531,7 @@ uid	text	label
 1530	The Script , oka , perfección	2
 1531	RT midgetgi : can n't sleep , mañana me estare arrepientiendo	0
 1532	Let the weekend begin Outfit : blusa neón $ 25.00 Falda azul $20.00 Seguimos tomando tus pedidos 096.880.7384 	2
-1533	RT escalera : No estuviste en si no sabes que la canción del trip fue " El Taxi " taxi	1
+1533	RT escalera : No estuviste en si no sabes que la canción del trip fue  El Taxi  taxi	1
 1534	Quieres irte a NEW YORK ? JUAN LUIS GUERRA , CARLOS VIVES Y MAS .. .. . elzol1067fm 	1
 1535	RT : MARCUS RASHFORD Age : 17 Pos : ST Cost : £1M Loan Listed Growth : 65 82 Skills : 2 WF :3 Real Face : No 	2
 1536	RT : In need of a tripleta	1
@@ -1541,7 +1541,7 @@ uid	text	label
 1540	RT gmusignac : la gente cada vez se pone mas pendeja en twitter , dis has to stahp	0
 1541	RT : El look de es de vestido de Elie Saab y joyas de Elena Jiménez	2
 1542	Ya lunes de Ganar dinero , entradas a Romeo y Miami Bash ! Llenos de energía . ya  	2
-1543	RT : " Huh jalapeño ? " I 'm dead 	1
+1543	RT :  Huh jalapeño ?  I 'm dead 	1
 1544	en su participación en .. . 	2
 1545	RT : Churro Bites 	2
 1546	De Luis a Puerto Rico real quick	1
@@ -1595,12 +1595,12 @@ uid	text	label
 1594	Una con Zarcort , Jordi y Lytos en el Club Media Fest ! 	0
 1595		2
 1596	RT gon : Mañana Senior Auction lleven los money bag money bag	1
-1597	RT xoxo : Me encantan esos " jamás haría eso " y después los ves comiéndose la mierda que hablaron . Iloveit	2
+1597	RT xoxo : Me encantan esos  jamás haría eso  y después los ves comiéndose la mierda que hablaron . Iloveit	2
 1598	RT : ¡ Nuestro Shopper de está aquí ! Empieza a planear tus compras en Anna 's: 	1
 1599	ninja turtles , solo porque Megan Fox está en ella	1
 1600	RT castrogy : Digo esto bien enserio .. . Si no te gusta el reggaeton , no podemos tener ningún tipo de relación cercana .	0
 1601	A mi me tienen que quitar los braces ya pq todo el mundo me dice que me veo como una nena chiquita y nooooo puedo bregar ya	2
-1602	Encontré Starbucks solo para oirl al empleado gritar " ILMA TU FRAPUCCINO MOCHA " ñozMarinAirport	1
+1602	Encontré Starbucks solo para oirl al empleado gritar  ILMA TU FRAPUCCINO MOCHA  ñozMarinAirport	1
 1603	RT : NECESITO un roadtrip	2
 1604	RT ger0 : Mi mood de todos los días : 	1
 1605	RT : No puedo sacarte de mi mente - Los Cafres ( ukulele cover ) by n i s s i 	2
@@ -1610,12 +1610,12 @@ uid	text	label
 1609	Para la zomber que me dio el poster y se me cayó ! Salí a recogerlo y ya se fué ! Porfi que me lo vuelva a traer :( ! squinting face with tongue victory hand light skin tone	2
 1610	EL MAESTRO MUTENROCHI XD !! | Quake Craft EP . 6 | Minecraft : 	2
 1611	RT denada : Aqui todo el mundo piensa que yo soy una bicha , gente I 'm the sweetest thing .	2
-1612	" Tarjeta llena " dice mi cámara . " Formatear " digo yo . HE BORRADO EL VLOG DE AYER . PERFECTO . MOTHERFFF 	2
+1612	 Tarjeta llena  dice mi cámara .  Formatear  digo yo . HE BORRADO EL VLOG DE AYER . PERFECTO . MOTHERFFF 	2
 1613	La mitad de los stories son de Brava , la otra mitad son de Pj	1
 1614	Mi profe de fisica es sendo mamabicho .. En jueves nos dio dos asignaciones pa mañana , online puso 2 mas y un quizz .. . pa mañana tambien middle finger light skin tone middle finger light skin tone	0
 1615	Quiero un biscuittttttttt	2
 1616	OMG !! ! Mirad que trabajazo ZOMBERS !! ! He hecho las bebidas de Black Ops 3 Zombeis para el Rap play ^^ 	2
-1617	" : hola cuka ! " hey babe	2
+1617	 : hola cuka !  hey babe	2
 1618	vazquez mutantes cuando en realidad no es asi .. . deadpool lo unico que tiene es que se recupera rapido y ya .. . en xmen le ponen miles	2
 1619	Good Morning 	2
 1620	Mañana Sabado tenemos un show de carros clasico . Darte un vuelta por Redland Market Village en 244  	1
@@ -1624,12 +1624,12 @@ uid	text	label
 1623	falda larga con este calor ughh I regret this	0
 1624	eww use the toilet ... jajajaj	0
 1625	ugh dia comercial para poder ser la persona más cursi ever ...	0
-1626	conversaciones con tipos por cel ... tipo : " Ghvsdfhjjds " *deep voice * yo : que ? tipo : " svvfsdbhf " * deeper voice * yo : que ?	2
-1627	" : me encanta tu aviiii " gracias hun :)	2
+1626	conversaciones con tipos por cel ... tipo :  Ghvsdfhjjds  *deep voice * yo : que ? tipo :  svvfsdbhf  * deeper voice * yo : que ?	2
+1627	 : me encanta tu aviiii  gracias hun :)	2
 1628	hateL de ringo !	2
 1629	me gusta como sale el iconsito de cuando tienes un DM	2
-1630	- " donde esta el OFF ? " mi prima : " en el sitio ese donde esta la lavadora ... ugh se me olvido el nombre " - em ... el laundry ? JAJAJAJJA	2
-1631	" : " smell my dick ? wait a minute , hold uup ! "" JAJAJA ESA PARTE ME MATA !	2
+1630	-  donde esta el OFF ?  mi prima :  en el sitio ese donde esta la lavadora ... ugh se me olvido el nombre  - em ... el laundry ? JAJAJAJJA	2
+1631	 :  smell my dick ? wait a minute , hold uup !  JAJAJA ESA PARTE ME MATA !	2
 1632	ohhh jaja suerte	1
 1633	salir de la practica a estudiar ... pfffffftttt yea sure	0
 1634	Vuelves con el mismo cuento y sé que no has cambiado nada desde la última vez	2
@@ -1640,7 +1640,7 @@ uid	text	label
 1639	Son pocas veces las que voy a Plaza , pero siempre tengo la dicha de encontrarme a quien menos quiero ver	2
 1640	Todos estos días me he estado levantando muy temprano for my liking	2
 1641	Sobre 40 empleados y en el lunch solo hay 5 espacios para comer ! Eso no brega !! !	2
-1642	They tried to make me go to rehab but I said , " No , no , no "	2
+1642	They tried to make me go to rehab but I said ,  No , no , no 	2
 1643	¡ Hoy toca ! Chicas heteros , besos robados y cómo superar una ruptura .. . OMG 	2
 1644	Para los y las Zombers que me animaron cuando estaba malitop :P 	2
 1645	El vlog de hoy , mis oseznos : MI PRIMER BAUTIZO POLAR 	2
@@ -1668,16 +1668,16 @@ uid	text	label
 1667	Yo quiero que mi soon to be husband me mire asi coño smiling face with heart-eyes smiling face with heart-eyes smiling face with heart-eyes smiling face with heart-eyes smiling face with heart-eyes smiling face with heart-eyes	2
 1668	El look de hoy de en unnuevodia . Bella con su nuevo color de pelo . Vestido  	2
 1669	mira maaa , Yo me tome una foto contigo en el relevo right ?! winking face	2
-1670	" : Do n't wait too long , you might miss your chance . " La Vida pasa .	2
+1670	 : Do n't wait too long , you might miss your chance .  La Vida pasa .	2
 1671	New arrivals ! Todo lo NUEVO disponible a partir del MARTES 1 DE MARZO ! 	2
 1672	“ : With the beautiful 	2
 1673	Ese dolor de que va a empezar una infeccion de garganta soon tired face	2
 1674	Ese mini heart attack cuando el celular casi se te cae en la cara .	2
 1675	El HACKER VAMPIRO !! T T | Juegos del hambre | Minecraft : 	2
-1676	Priorities level mami : " te compre munchies para el viaje "	2
+1676	Priorities level mami :  te compre munchies para el viaje 	2
 1677	Y cuando llegó al lobby , como quiera no abrió :-) so tuvimos que llamar al guardia .	2
 1678	u u es buena deja llegar a casa jjajaja salgo a las 1:30 de clases	2
-1679	by " Gracias a todos por la buena compañía hoy en ! Mi vestuario  	2
+1679	by  Gracias a todos por la buena compañía hoy en ! Mi vestuario  	2
 1680	Una con la señorita Zomber y con el Leonsito !! Jaja 	2
 1681	Dejo que se me sequen las uñas de los pies y me pongo jomas . face with tears of joy	2
 1682	voy a explotar mi story con fotos de mis sobrinos , sorry	2
@@ -1696,7 +1696,7 @@ uid	text	label
 1695	Buenas noches zombers !! Aunque quizas deberia decir buenos dias ! mi horario se ha desfasado ! squinting face with tongue face savoring food	2
 1696	fuertes1 runs in the fam .. Pero no me estaba quejando tho , estaba diciendo	2
 1697	Bullies , bullys . No se como se escribe .	2
-1698	" : Look at his cute belly ! 	2
+1698	 : Look at his cute belly ! 	2
 1699	Working plus fun ! Love my job ! 	2
 1700		1
 1701	i feel u .. . Yo no soy muy paciente que digamos face with tears of joy	2
@@ -1733,10 +1733,10 @@ uid	text	label
 1732	Te puedo ir de coldplay a anuel nigga real quick	0
 1733	Estoy loca por que pase el prom para cortarme el pelo cortito	2
 1734	me tomé un café y no se me quitó el sueño , eso es bullshit	2
-1735	" Failing to prepare is preparing to fail " lo que me manda mi coach .. .	2
-1736	by " Queremos desearle un Feliz Cumpleaños a nuestra queria amiga y stylist  	2
+1735	 Failing to prepare is preparing to fail  lo que me manda mi coach .. .	2
+1736	by  Queremos desearle un Feliz Cumpleaños a nuestra queria amiga y stylist  	2
 1737	la tipa seguia sacando sangre como si fuese de gratis .. . nigga you aware I need that	2
-1738	Como me encabronan los " ok " .	0
+1738	Como me encabronan los  ok  .	0
 1739	Desconozco hasta mi mood .	0
 1740	Ready ! Mas feliz no puedo estar ! Te amo baby relax .. .	2
 1741	monografia , why are you is so hard to finish ?	0
@@ -1768,7 +1768,7 @@ uid	text	label
 1767	Encuentro tan injusto que hayan fast foods y tiendas abiertas hasta tarde en días como estos , está cabrón	1
 1768	El vlog de hoy , pequeños días fríos y nublados : YA ESTÁ AQUÍ EL SORTEO !! 	2
 1769	diablo clase flashback me diste	1
-1770	" : dos Cadenas " hahaha this made my day	2
+1770	 : dos Cadenas  hahaha this made my day	2
 1771	Una parte de IM BICH , IM A GANGSTER entre el publico en el concierto ! 	2
 1772	El break siempre se va rápido cc .	0
 1773	When you 're so deep in Memorial que no sabes ni como salir otero 	2
@@ -1791,7 +1791,7 @@ uid	text	label
 1790	Me excuso de APUSH !! ! :D 	1
 1791	Dos sweaters , medias , botas , mahones , scarf y todavia tengo frio .. .	0
 1792	Anda pal carajo , qué aburrimiento , fuck	0
-1793	" andre : Quiero salir hoy , a dónde ? " Esa es la pregunta .. . always	2
+1793	 andre : Quiero salir hoy , a dónde ?  Esa es la pregunta .. . always	2
 1794	JoseChino -strict parents jaja -super chevere -te llevo	1
 1795	esperando una respuesta para despues darme cuenta que nunca le di send .. .	2
 1796	No creo en karma , but i do believe in the laws of physics	1
@@ -1827,7 +1827,7 @@ uid	text	label
 1826	Me llama rata pero no quiso salir conmigo Pudiste haber ido conmigo buuut noooo . 	0
 1827	es en TODO lo que estamos consiguiendo juntos . 	2
 1828	Necesito un roadtrip con más personas de mi grado de locura .	0
-1829	" : Necesito como una semana de recuperación mano " preach !	0
+1829	 : Necesito como una semana de recuperación mano  preach !	0
 1830	ramos15 lol tu me conoces ? Regreso el martes person tipping hand medium skin tone person tipping hand medium skin tone person tipping hand medium skin tone	1
 1831	ayer estaba 58 ° hoy a 76 ° .. . laundry bill sigue subiendo	2
 1832	Tendría un date todos los días feliz de la vida .	2
@@ -1841,7 +1841,7 @@ uid	text	label
 1840	DONDE SE METEN !! | Juegos del hambre ! | Minecraft : 	2
 1841	Facebook me ha recordado de cada step erroneo en mi vida . Gracias .	0
 1842	Ese party de syllabus week va porque VA 	1
-1843	" : Today is International Women 's Day 	2
+1843	 : Today is International Women 's Day 	2
 1844	Hambre y sueño , just fucking great	1
 1845	“ : Gracias por mi atuendo de hoy !! Te quiero amiga !! 	1
 1846	Mis panas me dijeron pa ir a la playa mañana im so happy loudly crying face sign of the horns light skin tone	2
@@ -1877,10 +1877,10 @@ uid	text	label
 1876	555 muy cierto verdad gracias x siempre estar al cañón con todo .	2
 1877	Estaría en la playa sentado en una silla viendo como el booty de mi pareja se tanea .	1
 1878	la chinis83 with repostapp . ・・・ todas mis mañanas con  	2
-1879	La letra i al final de ese " no " era necesaria para expresar mi frustración . Frustracióni .	1
+1879	La letra i al final de ese  no  era necesaria para expresar mi frustración . Frustracióni .	1
 1880	Super trabajo Amiga ! U rock thumbs up winking face	2
 1881	ughh selfishness de la enanana esta ! she is enough for both	0
-1882	" : Alcoholic ? No , I prefer the term Drinking Enthusiast . " andre jajajajaja accurate ?	1
+1882	 : Alcoholic ? No , I prefer the term Drinking Enthusiast .  andre jajajajaja accurate ?	1
 1883	“ : i miss my favorite stylist ! ” miss u to Chica	2
 1884	Si las paredes pudieran hablar .. .. OMG	0
 1885	le dije que nos fuéramos a medir bikinis por ahí , so tamo aki 	1
@@ -1908,7 +1908,7 @@ uid	text	label
 1907		1
 1908	muffin y que muffin top .. . more like the hole cake 	2
 1909	Vlog editado . I 'm a fucking editing machine . 	1
-1910	" : We are n’t entitled to shit , get off your ass and go get it if you want it . " Ley de vida .	0
+1910	 : We are n’t entitled to shit , get off your ass and go get it if you want it .  Ley de vida .	0
 1911	HumpDay !! ! De verde .. GOOD Morning familia ya falta menos para el weekend .. . 	2
 1912	Vecino : Que hace una vaca durante un terremoto ? Un Milkshake .	2
 1913	Wish list .. . algún día con 	1
@@ -1922,7 +1922,7 @@ uid	text	label
 1921	I wish , tengo influenza , pero tenemos que planeaaaar	1
 1922	Summer Reading ? Buen Chiste .	1
 1923	Buen inicio de semana Mujeres ! 	1
-1924	" : hola , aparece " hiii im alive	1
+1924	 : hola , aparece  hiii im alive	1
 1925	tqm amiguito . Sorry solo uno por viaje ! Jaja	2
 1926	O sea , tengo hell week next week ya . That went from 0 to a 100 real quick .	0
 1927	“ : picheale todavia estas en tu bday week ” ojalaiiii	2
@@ -1935,10 +1935,10 @@ uid	text	label
 1934	Alfombra de aqui Tienes la foto amiga me quedo guapisimo right ! 	2
 1935	Comí avena de desayuno y almuerzo ?	1
 1936	Ahora bajo las 5 libras .. . Lol 	1
-1937	" ruin : El final de Instructions not included me ha dejado heart broken por el resto de mi vida " que si que ! Crying 5ever :( loudly crying face loudly crying face loudly crying face	0
+1937	 ruin : El final de Instructions not included me ha dejado heart broken por el resto de mi vida  que si que ! Crying 5ever :( loudly crying face loudly crying face loudly crying face	0
 1938	mirando mi camisa de la caravana .. . wtf ! ya paso un año :/	2
 1939	Estaría pa 'l de cabron entrenar con tu pareja en el gym y ayudarse mutuamente .	2
-1940	" tu cara es tan perfecta " -wtf ! why is everybody being so nice to me today ?	1
+1940	 tu cara es tan perfecta  -wtf ! why is everybody being so nice to me today ?	1
 1941	Con ganas de comer un churri o in cubano .. -2 semanas smiling face with heart-eyes	2
 1942	hahahaha es un get de una amiga de boli pero no se como estara	2
 1943	JAJAJAJ su awkwardness me incomoda tanto ! Like stahp betch .. . 	1
@@ -1971,7 +1971,7 @@ uid	text	label
 1970	Me comprometen en cosas y me llego a enterar por terceras partes , so great	0
 1971	jajajajajaj I sneaking it in like a pro ! :)	1
 1972	Exactamente . Decisions .. .. 	1
-1973	“ : " : “ : y .. . 	2
+1973	“ :  : “ : y .. . 	2
 1974	A comer con mi honey ! A celebrar mi nueva posición !! !	2
 1975	ñequito suena como un negro asi que maybe se confundieron de negro face with tears of joy	1
 1976	verdad , no se como en high school podíamos con dos diás nada más	1
@@ -1988,7 +1988,7 @@ uid	text	label
 1987	My new sounds : The Kronno Play | canal secundario | Kronno Zomber 	1
 1988	but are sure ? Con una buena navaja se llega al corazon bastante rapido	1
 1989	Yo pienso que si yo termino siendo millonario mi gasto que i would go broke for seria apple products	1
-1990	" : me tooooo !! " -2 meses :'( llevo 5 meses sin verte !! ! Que puñeta ?! face blowing a kiss face blowing a kiss face blowing a kiss face blowing a kiss face blowing a kiss face blowing a kiss face blowing a kiss face blowing a kiss	0
+1990	 : me tooooo !!  -2 meses :'( llevo 5 meses sin verte !! ! Que puñeta ?! face blowing a kiss face blowing a kiss face blowing a kiss face blowing a kiss face blowing a kiss face blowing a kiss face blowing a kiss face blowing a kiss	0
 1991	Te falta flow piquete dinero y actitud musical notes	1
 1992	Pa 'l carajo tu pasado porque yo seré tu futuro .	2
 1993	Ya entiendo un poco mejor a todas las madres .. . enferma y estos dos no me dan un break .. . face with medical mask face with thermometer	2
@@ -2070,7 +2070,7 @@ uid	text	label
 2069	Omg im dumb aja estaban satanicas . Borrachos by 7pm face with tears of joy	2
 2070		2
 2071	Buscar o no buscar el cargador THE STRUGGLE	2
-2072	actually fui yo cuando dije " echa "	1
+2072	actually fui yo cuando dije  echa 	1
 2073	El vlog de hoy , pequeñas fiebres australianas : PROBANDO DULCE COLOMBIANO !! 	2
 2074	mi cuerpo no responde .. . I can n't move	0
 2075	“ : Sé bondadoso y compasivo con todos cuando subas ; los encontrarás a todos cuando bajes . ”	2
@@ -2080,10 +2080,10 @@ uid	text	label
 2079	Thank youuuu , love . Lo tenias que hacer desde antes pero ni modo ! 	2
 2080	omar no está tan cool	0
 2081	El calor puede estar bien cabron pero ni pa 'l carajo me baño con agua fría .	2
-2082	" You had my vote " cabrona stop smoking whatever you are smoking	0
+2082	 You had my vote  cabrona stop smoking whatever you are smoking	0
 2083	Concurro con mi rt	1
 2084	Jamás me canso de ver !!	2
-2085	" Gana si que gana porque ellos si tienen ganas " charreria brought to you by mi hermana	2
+2085	 Gana si que gana porque ellos si tienen ganas  charreria brought to you by mi hermana	2
 2086	Rainbow day - Cuál es tu color favorito ? 	1
 2087	Todos nos lamentamos nuestros e-mails de pequeños .	1
 2088	Como me encojona que picheen los text	0
@@ -2100,7 +2100,7 @@ uid	text	label
 2099	Orita estaba que me dormía hasta en el piso y ahora que puedo dormir se me fue el sueño , ajaaaa , yes	2
 2100	No he ido al gym en 4 días y siento que he engordado como 20 libras	0
 2101	with repostapp . mi satisfacción es ver a mis estudiantes contentas con el  	2
-2102	JAJAJAJAJAJAJA " blah blah "	0
+2102	JAJAJAJAJAJAJA  blah blah 	0
 2103	Preseason empieza mañana y yo aqui .. . 	1
 2104	Cuando subes un video y no te explicas como ha llegado tan rápido a 100.000 visitas ! Gracias Zombers ! 	2
 2105	Sweetest Devotion me mata	2
@@ -2117,8 +2117,8 @@ uid	text	label
 2116	Un poquito peor I believe 	2
 2117	Érase una vez .. . truz . Get it ? Un avestruz ? No ? Okay .	1
 2118	El vlog de hoy : TRISTEZA MÁXIMA 	2
-2119	Look 1 y look 2 . " Viva México " mini princesa Mexicana !! ! mariae7622 flomigs igual de Fashion q la tía . 	2
-2120	nena la dejo por crazy ! Cuándo nos mudamos nos dijo q la calle era relax " nada de gritos " las primeras q gritan son ellas ! Cafres	0
+2119	Look 1 y look 2 .  Viva México  mini princesa Mexicana !! ! mariae7622 flomigs igual de Fashion q la tía . 	2
+2120	nena la dejo por crazy ! Cuándo nos mudamos nos dijo q la calle era relax  nada de gritos  las primeras q gritan son ellas ! Cafres	0
 2121	Si yo algún día me declarara gay solamente sería para casarme con	2
 2122	Estoy tan ready pa ' empezar en un nuevo ambiente y ver caras nuevas	2
 2123	La alegría del alma se refleja en tu sonrisa ! Nightout Outfit : blusa Valeria , falda Irina , corona d rosas 	1
@@ -2133,14 +2133,14 @@ uid	text	label
 2132	El vlog de hoy : LA CHICA QUE MÁS ME HA GUSTADO 	2
 2133	People are dumb af . Me retiro de to ' .	2
 2134	Por que no quiero estudiar , so le tiro fotos a una oruga que me encontre 	1
-2135	No he tenido mucho apetito en estos días y busque en google " loss of apetite " y aparentemente tengo pancreatic cancer .	2
+2135	No he tenido mucho apetito en estos días y busque en google  loss of apetite  y aparentemente tengo pancreatic cancer .	2
 2136	Son las 5pm y estoy en la uni .. . Something is wrong .	1
 2137	El vlog de hoy , pequeños bastoncillos de caramelo : EL PEOR PROBLEMA VIAJANDO 	1
 2138	Kronno , ¿ Que sientes cuando algún fan te abraza y/o te  — Pues le devuelvo el abrazo y le digo que gracias , en es  	1
 2139	Yo siempre estoy active .	2
 2140	El jet lag es real . 	2
 2141	Nada mas relajado que una beack blanket ! Usala en la playa de la forma que quieras ! 	2
-2142	" : My ginger 	2
+2142	 : My ginger 	2
 2143	lopez * gracias por llamarme gorda * Hahaha pero si , he is face with tears of joy relieved face	1
 2144	yo en las camas twins de los dorms .. . 	2
 2145	pero creo que lo borre not sure jajajaja	1
@@ -2151,9 +2151,9 @@ uid	text	label
 2150	Tanta gente que hay con relaciones duraderas y la mamona viene a pedirme advice , claro , aja	1
 2151	En breves publico el video con la señorita zombers !! ! :D 	2
 2152	Dia 'lo , me hubiese gustado estar jugando hoy	2
-2153	" Un corazón por un abrazo de 20 segs " jurau ' que fue lo más awkward del día	1
+2153	 Un corazón por un abrazo de 20 segs  jurau ' que fue lo más awkward del día	1
 2154	No feelingsss .	1
-2155	" I love her period " Creo que ahi falta una coma .. .	2
+2155	 I love her period  Creo que ahi falta una coma .. .	2
 2156	A la verdad que el verano despues de freshmen year yo estaba OBESA	1
 2157	Ponte en Forma con La Gatita este Domingo en Westland Mall 	1
 2158	eso está más hardcore hahaha	0
@@ -2219,10 +2219,10 @@ uid	text	label
 2218	Estoy seguro que este juego va a tener mas views que la final	1
 2219	“ : 400 million people across the world have sex in one day . That means that there are 4 , 000 people having sex right now ” El Saludo !	1
 2220	Tengo $234.56 en el wish list de libros JAJAJAJAJAJA	2
-2221	" smrios : i wanna be a burrito and sleep "	2
+2221	 smrios : i wanna be a burrito and sleep 	2
 2222	Qué weekend más rico .	2
 2223	Mi viernes social 	1
-2224	" Quiénes hacen double down aquí ? " " Fulana , Sutana .. . Ah y Priscilla borracha " Hahaha ay crijto .	2
+2224	 Quiénes hacen double down aquí ?   Fulana , Sutana .. . Ah y Priscilla borracha  Hahaha ay crijto .	2
 2225	Cuantos trabajan igual que en este 	1
 2226	“ : No importa el tamaño de la pieza .. . ¡ sino el tiempo que este tiesa ! ” yessss !! !! Happy valentines day !	1
 2227	Ayer en la celebración del No puedo dejar pasar esta foto .. el primer día que  	2
@@ -2241,7 +2241,7 @@ uid	text	label
 2240	Me ha gustado un vídeo de de ( 	2
 2241	Una de las canciones que hicimos en Argentina se la quiero dedicar a mi CHICA GAMER , a mi cielo azul 	2
 2242	Oh Dios ! El Loco en Full Lol happy Friday . 	2
-2243	" The joy of dressing is an art " John Galiano . Blusa y Waist pant . Get your new outfit !! Envíos 096.880.7384 	2
+2243	 The joy of dressing is an art  John Galiano . Blusa y Waist pant . Get your new outfit !! Envíos 096.880.7384 	2
 2244	hay un tipo en el tren que no para de reirse solo wtf	1
 2245	Muchas felicidades al mejor esposo ever en su !! ! Te amo mucho !! ! birthday cake musical notes party popper face blowing a kiss backhand index pointing right skull	2
 2246	Dame mention tranqui 	1
@@ -2265,7 +2265,7 @@ uid	text	label
 2264	que cool	2
 2265	como que lol ? No puedo bregar no he parado de llorar hoy	2
 2266	Cuando tu crush te da rt 	2
-2267	ruin nena que importa probablemente es bi .. . who cares ! y full le pregunto que me recita lo de " Im Chuck Bass " ! me meo jajaja	1
+2267	ruin nena que importa probablemente es bi .. . who cares ! y full le pregunto que me recita lo de  Im Chuck Bass  ! me meo jajaja	1
 2268	Cuál es tu color favorito ? Escoge el tuyo !! 	2
 2269	ejae long story jajajajajaja	2
 2270	ustedes tripiandose mi risa .. . jajajajaja no era fake i wouldnt breath	2
@@ -2277,7 +2277,7 @@ uid	text	label
 2276	LA REVANCHA ! Zarcort & Kronno VS Cojo & Luis | Counter Strike CS GO : 	1
 2277	SO FUCKING ACCURATE . ESTA ERA YO HORITA . 	0
 2278	jaja always .. . forever spreading my obsessions :)	2
-2279	Bien agradecida por el " liquid sunshine " por favor !	2
+2279	Bien agradecida por el  liquid sunshine  por favor !	2
 2280	Tus collares preferidos ya listos en nuestro local Hoy atendemos ! Continúan nuestras ofertas ! 	2
 2281		1
 2282	Cambia tus reglas y vive en un street runway siempre . ATTRACTION New Collection 	2
@@ -2293,7 +2293,7 @@ uid	text	label
 2292	Cada día me visto mas tira pa la uni	2
 2293	Racionamiento pero fucking 5 dias . Es un dia si y uno no .	0
 2294	Yo escribiría tantas cosas sexosas en mi twitter si no tuviera ciertos followers .	2
-2295	bea103 te voy a quote en mi proximo ensayo " un baño es facil , pero la vida no " .	1
+2295	bea103 te voy a quote en mi proximo ensayo  un baño es facil , pero la vida no  .	1
 2296	El clima no es excusa para no ir al gym .	1
 2297	Buenos Dias ! Que frio hace en Miami ño . La bufanda el accesorio que no debe faltar en tu closet	2
 2298	Probé un cheesecake de fresa vegano y estaba tan rico que quiero ser vegana	2
@@ -2317,7 +2317,7 @@ uid	text	label
 2316	I want to hug a Rainbow Un collar lleno de vida y color hecho para tí 	2
 2317	Que cuteee 	2
 2318	Dios mío , gracias . Stop shaming women and stop double standards . 	2
-2319	Mañana " hay " juego de softball	2
+2319	Mañana  hay  juego de softball	2
 2320	AVISO IMPORTANTE : este mes de marzo tenéis vídeo en YellowMellow cada miércoles a las 20.00 h . HE DICHO .	2
 2321	La historia del group message a diario 	1
 2322	ay benditoooo estaban de show tenias que verlos	2
@@ -2342,7 +2342,7 @@ uid	text	label
 2341	imma block yo ' white ass	2
 2342	Imagen Modeling by La Gatita . 	1
 2343	ah ok either way mitad del tiempo la gente va estar super drunk , me encanta cm piensan que la gente va estar atento de su flofera	2
-2344	" soy yo o ella habla como elmo ? "	0
+2344	 soy yo o ella habla como elmo ? 	0
 2345	Si tiene jevo , respeta cabron y recíclate pa 'l carajo .	0
 2346	Nos encanta divertirnos con nuestro outfit * NUEVAS BLUSAS * DESCUENTOS por todo DICIEMBRE Pedidos al 096.880.7384 	2
 2347	CAMPEONAS POWER LEAGUEEEEE	2
@@ -2357,13 +2357,13 @@ uid	text	label
 2356	Porque nosotras sabemos que menos es más . Blusa amarrada cuadros black & white Pedido a domicilio : 096.880.7384 	2
 2357	Listo ya para cantar ! Muy guapo y con estilo 	2
 2358	Cuando estas cansado no hay nada como meterte en la cama , taparte y ver una serie hasta quedarse dormido ! Good night !! squinting face with tongue	2
-2359	" bea103 : jaja que bella i love you " stahp et ! jaja love you too ! y young lady pay attention to your orientation .. .	2
+2359	 bea103 : jaja que bella i love you  stahp et ! jaja love you too ! y young lady pay attention to your orientation .. .	2
 2360	New accesories ! Disfruta nuestros nuevos collares y sus bright colors !! 	0
 2361	La Gatita Deals on Wheels 	1
 2362	Por más que estudio para fucking Orgánica , no saco más de una B raspá weary face	2
 2363	Pasándola relax en buena compañía 	2
 2364	Fue una mala idea mirar mis drafts .	1
-2365	me siguen hablando de " y cuando te vayas .. " meanwhile todavia no siento que es real esto ha pasado demasiado rapido :(	0
+2365	me siguen hablando de  y cuando te vayas ..  meanwhile todavia no siento que es real esto ha pasado demasiado rapido :(	0
 2366	Llevo desde esta mañana editando a full xD poniendo cada cosa al milimetro ! estoy cansado pero super contento ! 	2
 2367	extrano jugar contigo lokii espero verte soon high voltage high voltage	2
 2368	We al are great friends . He knows it us	2
@@ -2384,7 +2384,7 @@ uid	text	label
 2383	Salcot !! El echufe .. . nah es broma ! la gente quiere rap de Deadpool !! ! 	2
 2384	glez me fui de la uni :(	0
 2385	OMG !! ! Estuvo cool !	2
-2386	siempre hacen " layaways " , el cliente lo paga completo y cuando lo va a sacar le dicen que NO está disponible ?	0
+2386	siempre hacen  layaways  , el cliente lo paga completo y cuando lo va a sacar le dicen que NO está disponible ?	0
 2387	¿ Qué fucking carajo yo hago despierta ?	2
 2388	con las familias de South Dade . Felicidades a todos para las navidades . 	2
 2389	Media horita para el nuevo vídeo en YellowMellow .. . smirking face fire	2
@@ -2396,8 +2396,8 @@ uid	text	label
 2395	Soy una gorda , bye mundo victory hand medium skin tone	2
 2396	Buenas noches Zombers ! Descansad ! Pronto nuevos Raps ! beaming face with smiling eyes red heart	2
 2397	Happy Monday desde 5:00 am contigo 	2
-2398	" : Lamentarse por lo que no tenemos .. . es desperdiciar aquello que poseemos . " TRUE !! !	2
-2399	Video Maffio " Si Yo Fuera El " stylist 	1
+2398	 : Lamentarse por lo que no tenemos .. . es desperdiciar aquello que poseemos .  TRUE !! !	2
+2399	Video Maffio  Si Yo Fuera El  stylist 	1
 2400	Apartamento 317 . Shit 's gonna go doooooown otero sparkles sparkles sparkles	2
 2401	dia de lluvia = chau voy a ser un vegetal con capacidad para comer y jugar a la play	2
 2402	He tenido algunos problemillas con el sonido de los videos del segundo canal , :( mañana grabo otros y los subo :) thanks ! :D	0
@@ -2418,14 +2418,14 @@ uid	text	label
 2417	Look de viernes . fight heart decease apoya la  	2
 2418	Atención 6500 pines Blvd llegó con tus premios  	2
 2419	No he podido subir el vlog , pero está editado . Mañana tendréis dos . beaming face with smiling eyes	2
-2420	" 14 : 3 tiros y ninguno entro " if you know what I mean ;) unamused face	2
+2420	 14 : 3 tiros y ninguno entro  if you know what I mean ;) unamused face	2
 2421	LUCKY ISLAND | LA PARTIDA MÁS ÉPICAS DEL MUNDO !! | Minecraft : 	2
 2422	kortright bello jajaja gracias x el update hugging face	2
 2423	Royal Dress + pretty woman + beatiful day = perfection . Un vestido nuevo para cada  	2
 2424	esta cabron yo estaria bien encojonau exito ahi men , se te extraña face with tears of joy face with tears of joy	2
 2425	Bienvenida Celene Imagen Modeling by La Gatita regístrate para información en 	2
 2426	busca ese conteo mental , donde te enfóquese y disfrutes lo que haces .. . Puedes tener a todos  	2
-2427	eres mas cool .. Tienes 3 " super " antes del " cool "	2
+2427	eres mas cool .. Tienes 3  super  antes del  cool 	2
 2428	Conoces a alguien así 	2
 2429	The rise of the Tomb Raider hoy va a ser mi nana para poder dormir musical note musical notes video game red heart	1
 2430	Wow ELLOS lo Q estan haciendo es limpiando la casa para solo dejar lo NUEVO .. .	2
@@ -2459,7 +2459,7 @@ uid	text	label
 2458	Dios Santo ! Si ustedes mis oyentes me siguen consintiendo y llevándome gustosos al show  	2
 2459	JAJAJA no se de donde salieron los taquitos pero fueron como que gloriosos ! yo solo veia la mano . mosteriosa dandome food	2
 2460	naps en la playa make everything better	2
-2461	" Kiss her in the middle of her sentence , girls love that shit .. . " me lo imagino asi girl : " I 've got .. . " boy : * kisses her * girl : " mono " JAJAJA	2
+2461	 Kiss her in the middle of her sentence , girls love that shit .. .  me lo imagino asi girl :  I 've got .. .  boy : * kisses her * girl :  mono  JAJAJA	2
 2462	Mi madre y mi perro cogiendo unos mega power naps y yo pues estudiando .	2
 2463	Super bien vestido en su evento de sixflags en San Francisco 	2
 2464	Nuestra vista !! ! 	2
@@ -2494,7 +2494,7 @@ uid	text	label
 2493	Se enfoca en su flow	1
 2494	Promocionando mi work 	2
 2495	Scandal Season 5 Episode 6 Promo 5x06 Promo 	2
-2496	by " Happy Hour with " via instareposts mean  	2
+2496	by  Happy Hour with  via instareposts mean  	2
 2497	El popcorn del cine es gloria .	2
 2498	I mean .. . Si si . Angelita smiling face with halo	2
 2499	Blusa estampada con botones y cuello , amarrala o puedes usarla por dentro de tu jean ! Blusa $24.70 	2
@@ -2514,7 +2514,7 @@ uid	text	label
 2513	nunca me puedo quedar evenly :/	2
 2514	Buen domingo ! 	1
 2515	YA ESTAMOS EN EL ZOMBIDIRECTO !! ! ID ENTRANDO !! :D LETS GO !! ! 	2
-2516	Todos a la moda mas in del verano by " En todos con la onda de los  	2
+2516	Todos a la moda mas in del verano by  En todos con la onda de los  	2
 2517	Tengo que dormir mínimo tres días después de este weekend	2
 2518	Todo hombre deberia ver The Break-Up 	2
 2519	Ni fumo , ni bebo , tampoco me drogo , soy un bicho raro .. . Me llaman ZOMBER ! skull red heart	2
@@ -2584,7 +2584,7 @@ uid	text	label
 2583	ya escuchaban 	1
 2584	MAS QUE FUCKING ENLOQUECERLO 	2
 2585	Throw a la fuga 	0
-2586	" So Loca " - Gigi	1
+2586	 So Loca  - Gigi	1
 2587	Apellido : Beer ! Beer Ok .	2
 2588	yo seré feliz cuando tengáis Parks and Recreation en vuestro catálogo .. . PORFI loudly crying face folded hands	0
 2589	I just used Shazam to discover Arroz Con Habichuela by El Gran Combo De Puerto Rico . 	2
@@ -2596,7 +2596,7 @@ uid	text	label
 2595	-sexxx baby jaja -rizos -libre expresión -simplemente hermosa -151	2
 2596	ALGUIEN POR FAVOR TRÁIGAME UN ICEE POOOOR FAVOOOOR disappointed face	2
 2597	ruin z jajajaja awkward por que carajo	0
-2598	Ariana Rants : ME MOLESTA TANTO " Ill forgive but I never forget " LIKE bitch then I need to throw you a dictionary thata not forgiving	2
+2598	Ariana Rants : ME MOLESTA TANTO  Ill forgive but I never forget  LIKE bitch then I need to throw you a dictionary thata not forgiving	2
 2599	La política debe coger un Break !! !! 4 años de política !! ! Basta ya !! !	1
 2600	Pa ese booty no existe sillín	2
 2601	no se fue el primer nombre que se me occurrio jajaja i dont really remeber his name .. .	1
@@ -2608,9 +2608,9 @@ uid	text	label
 2607	tirar bolitas de papel a ver si cae en el cleavage es un pasa tiempo de muchos	2
 2608	cuando me vaya voy a estar super negra y el pelo color carrot si sigo asii	1
 2609	Todo el mundo siempre va a hablar mierda pero do what you love y ya . Be yourself .	0
-2610	" Love ? No . I prefer beer . " yess please ;)	2
+2610	 Love ? No . I prefer beer .  yess please ;)	2
 2611	“ : 	1
-2612	" nieves : ROMERO HASME UN HIJO " hay tweets que no deben ser escritos .. . Jajaj	1
+2612	 nieves : ROMERO HASME UN HIJO  hay tweets que no deben ser escritos .. . Jajaj	1
 2613	Vamoo pa ' la beachh sun with face	2
 2614	gabee2 Coño , I feel youuuu	1
 2615	Red carpet de las 25 poderosas de People en Espanol 2015 	1
@@ -2672,7 +2672,7 @@ uid	text	label
 2671	este calor esta demasiado .. . fuck clothing	1
 2672	by via photorepost app 	2
 2673	Ahora es q se jod@$& esto !! ! Dusfrutando mi viernes off !! ! Hasta abajo	2
-2674	" : when someone does n't text you back 	2
+2674	 : when someone does n't text you back 	2
 2675	“ : “ : Guapa talentosa 	2
 2676	Ant man .. .. did you told Phoebe que ibas a estar busy fighting ?	2
 2677	damn boy esta foto me llevo a cuando jugabamos face with tears of joy face with tears of joy	1
@@ -2680,7 +2680,7 @@ uid	text	label
 2679	Hoy el vlog saldrá más tarde de las seis , PERO ESTARÁ . red heart	2
 2680	siii está cool en verdad , pasan muchas cosas	1
 2681	Diablo , de tantos temas que hay y tú no puedes seguir la conversación ? Nice .	2
-2682	by " Hoy para unnuevodia gracias y mi collar  	1
+2682	by  Hoy para unnuevodia gracias y mi collar  	1
 2683	Este libro me drena emocionalmente , fuck .	1
 2684	Empleado del Mes again !! ! Wow Baby ! Te amo muchas felicidades . Work Hard Play Hard !	2
 2685	Y que hacer filas un cojonal de horas pa ' comprar cosas que probablemente ya tienen , homb 'e , no	2
@@ -2710,7 +2710,7 @@ uid	text	label
 2709	Me ha gustado un vídeo de de ( 	2
 2710	VAMOOOOOOOO ME VA EL CORAZÓN A MIL 	2
 2711	¡ Maldita química orgánica cómo te fucking odio !	2
-2712	by " " via photorepost app  	2
+2712	by   via photorepost app  	2
 2713	El tapon del peaje de Caguas Sur esta bien Nasty , deben poner mas estaciones de recargo !! !!	2
 2714	Ready 	1
 2715	Gracias a Edible Arrangements de Miami Beach por el regalo y detalle para nuestra oficina de  	2
@@ -2726,7 +2726,7 @@ uid	text	label
 2725	Let me take a selfie ! Asi de Bella es mi dulce clienta y Amiga jessicacedielnet y Las  	2
 2726	Zoé dress Check out iur dress in our store ! Realiza tu pedido al 096.880.7384 	2
 2727	El vlog de hoy : AHORA SOY UN TRANSFORMER 	2
-2728	por eso puse " que annoying " jajaja	2
+2728	por eso puse  que annoying  jajaja	2
 2729	Long island 2 Medalla 0 !! ! Mujeres alante !! ! un saludito al !! 	2
 2730	El trip de maya se me hizo fucking eterno	1
 2731	De break a las 2am Arroz y habichuelas con albondigas !! !!	1
@@ -2738,7 +2738,7 @@ uid	text	label
 2737	Stressed Out es tan catchy	0
 2738	hahaha tiene que ser face with tears of joy	1
 2739	Que carajo pasa en el parking de plaza	2
-2740	el : " whyyyyyy did I just " me va seguir toda la semana	2
+2740	el :  whyyyyyy did I just  me va seguir toda la semana	2
 2741	z clarooo , cuando tengas un break	1
 2742	Gracias Familia por Reportar la SINTONIA .. .. It 's Friday y Como siempre sintonizando la  	2
 2743	Vamo 'a darle shut down a las lucessss	1
@@ -2772,14 +2772,14 @@ uid	text	label
 2771	De que vamos a jugar el power ball !! $225 Millones dan y sobran .. . 	2
 2772	Nada , el vídeo no se va a poder subir .. . SORRY , pero no puedo hacer nada . Me pone que va a tardar dos horas más . SE POSPONE LA SUBIDA .	2
 2773	Buenos dias Zombers !! ! beaming face with smiling eyes beaming face with smiling eyes face blowing a kiss	2
-2774	" : Yo el futuro de mi paiz ? Bitch yo me voy de PR a la primera oportunidad q tenga ! " Los que saben escribir " pais " se quedan .	1
+2774	 : Yo el futuro de mi paiz ? Bitch yo me voy de PR a la primera oportunidad q tenga !  Los que saben escribir  pais  se quedan .	1
 2775	Que stress es estokiar a la gente insta O sea una vez le di like a una foto de 48 weeks ago . Que verguenza . grimacing face grimacing face grimacing face grimacing face	1
 2776	hahahaha ni que fueran pa eso face with tears of joy	2
 2777	Queria tatuarme algo relacionado con la musica y algo de mis zombers ^^ aun tengo que pensarlo xD	1
 2778	TBS esta on fire hoy con las peliculas smiling face with heart-eyes	2
 2779	Necesito un weekend largo para quedarme en casa de abu ' two hearts	2
-2780	" : muy bien , haciendo planes para nosotras .. . " jajajaja of course ! Tu le llegas aunque te tardes :)	2
-2781	" : Hoy necesito una botella de johnny walker " everyday .. .	2
+2780	 : muy bien , haciendo planes para nosotras .. .  jajajaja of course ! Tu le llegas aunque te tardes :)	2
+2781	 : Hoy necesito una botella de johnny walker  everyday .. .	2
 2782	nena si ! Fue a la primera q vino ! We set the bar very high para las otras tiendas ! Suerte ahí	2
 2783	Hay mucha chicas gamers pero la mejor es pasandose Watchdogs ! 	1
 2784	Me siento tan fucking plasta	0
@@ -2807,7 +2807,7 @@ uid	text	label
 2806	LA MADRE QUE ME PARIO !! ! con las luces verdes que he puesto aquí me voy a cagar en el directo .. . Ready ?? 	1
 2807	Tengo ganas de estar en un field-day solo para comer cielito lindo , brownies y sandwich de mezcla face with tongue face with tongue face with tongue	2
 2808	Ya mate el hambre que me estaba matando !! !! ! comida saludable el 70% es lo que  	2
-2809	cuando un gringo te dice " U R The only ones that can pull this off " everything looks great " como q da cosita !! Happy	2
+2809	cuando un gringo te dice  U R The only ones that can pull this off  everything looks great  como q da cosita !! Happy	2
 2810	Último día comiendo fast food	2
 2811	Omg hoy es el lunes ese que tengo 3 exámenes corridos	0
 2812	Blue sky , blue moon , blue me - blue You !! Con ganas de usar azul el día de hoy !! 	1
@@ -2825,14 +2825,14 @@ uid	text	label
 2824	COD BLACK OPS 3 ZOMBIES EPIC RAP | KRONNO ZOMBER ft . Cryptic Wisdom | ( Videoclip Oficial ): 	2
 2825	Estudié bien cabrón como por 12 horas hoy , cogiendo breaks solo para lavar ropa y comer .	0
 2826	lee el otro tweet	2
-2827	“ 555 : Feliz Cumpleaños querida pasala mega increible en tu dia muchos besos y abrazos , Dios te siga bendiciendo TQM " U red heart	1
+2827	“ 555 : Feliz Cumpleaños querida pasala mega increible en tu dia muchos besos y abrazos , Dios te siga bendiciendo TQM  U red heart	1
 2828	whatever no me importa el examennn me quiero irrr omg	2
 2829	gerardogabriel pfft como si tu fueras al gym face with tears of joy	2
 2830	“ : A species of spider breaks off its own penis to avoid being eaten by the female during sex 	0
 2831	Creo que tendré que pasar una transición vegetariana antes de ir a lo HARDCORE .	2
 2832	BUEEEEEEEEEEEENOS DÍAAAAAAAAAAS BITCHEEEEEEEESSSSSS 	2
 2833	QUISE APOYAR A TODAS LAS CHICAS GAMERS ! Y lo hemos conseguido ! hemos superado los 7 millones ! :D 	2
-2834	" : protecting bae like 	2
+2834	 : protecting bae like 	2
 2835	Batata Mode , por fin un descanso !	2
 2836	Captain phillips está bien cabrona	1
 2837	a tu grupo en este weekend 	2
@@ -2856,7 +2856,7 @@ uid	text	label
 2855	Cuando te dan un nugget extra en Wendys 	2
 2856		1
 2857	online class de sexual harassment .. . Arianna is so mean 	1
-2858	Ya hemos superado el medio millón en el tema de " Ya ves " gracias Zombers ! Buenas noches ! 	2
+2858	Ya hemos superado el medio millón en el tema de  Ya ves  gracias Zombers ! Buenas noches ! 	2
 2859	jamáss hahaha	2
 2860	No puedo bregar con la gente stalker	1
 2861	confia que si , tu foto es cute , un perrito es cute .. . Y al igual que ese buho u are not cute fire fire fire fire fire	2
@@ -2887,7 +2887,7 @@ uid	text	label
 2886	Mas que contento con el resultado y vuestro apoyo ! Yo me voy a descansar , buenas noches Zombers ! 	2
 2887	Escoge tu outfit !! SEGUIMOS CON LOS DESCUENTOS !! te esperamos hoy hasta las 7:00 pm 	2
 2888	Desde el jueves pasau no me voy en un spamming de mis pointless tweets en la madrugada .. .. .. . Will today be the day i return ?	2
-2889	" : This is me 	2
+2889	 : This is me 	2
 2890	not sure .. . todo esto ha sido en despingue el moving out .. . pero me imagino que no vas a estar aqui si se hace .. .	1
 2891	Gracias mi bruja . Love u chica .	2
 2892	y no te creas últimamente hay unos nenitos medio annoying todos los días ahí unamused face	0
@@ -2913,7 +2913,7 @@ uid	text	label
 2912	Stunning look ! obten los mejores outfits para este weekend ! We are open ! 	2
 2913	Quiero el bowl enorme de cookie dough de costco en mis manos ahora	2
 2914	Lo mejor de Navidad son los Christmas movie marathons y la comida snowflake	2
-2915	" Donde tú trabajas ? " " En una tienda de surfing " " se nota , te pega ese look " Claro como yo surfeo tanto	0
+2915	 Donde tú trabajas ?   En una tienda de surfing   se nota , te pega ese look  Claro como yo surfeo tanto	0
 2916	Diablo que sueño me cago en to ' sleepy face	2
 2917	Faldas irinas ON SALE !! $ 20.00 Favorites !! ! 	1
 2918	El vlog de hoy , pequeños nuevos remixes : NOTICIA IMPORTANTE !! 	2
@@ -2996,4 +2996,4 @@ uid	text	label
 2995	Double beauty ! blue jumper disponible en nuestra tienda WE . ARE . OPEN - 11:00 a 19:00 	2
 2996	demasiado accurate jajajajaja demasiado	2
 2997	Carajo , carajo , carajo , no me hablas si tengo sueñoooo , no puedo ni pensa 'l	2
-2998	" : * rolling my eyes* " ten cuidado que no se te vayan ya que you are forever rolling your eyes	2
+2998	 : * rolling my eyes*  ten cuidado que no se te vayan ya que you are forever rolling your eyes	2
