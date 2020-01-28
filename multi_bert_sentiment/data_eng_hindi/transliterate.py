@@ -9,6 +9,7 @@ flag2=0
 line =f1.readline()
 count=1
 str1=""
+
 while(line):
     if(line=="\n"):
         if(len(l1)):
