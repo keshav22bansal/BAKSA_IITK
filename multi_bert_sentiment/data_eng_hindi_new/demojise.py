@@ -6,8 +6,10 @@ import sys
 import re
 
 newfile = open(sys.argv[2], "w")
+newfile.write("uid\ttext\tlabel\n")
 with open(sys.argv[1]) as f:
     for line in f.readlines():
+        uid = line.split("\t")[0]
         modified_line = emoji.demojize(line, delimiters=('<', '> ')).strip()
         l = modified_line.split()
         l1=[]
@@ -63,6 +65,9 @@ with open(sys.argv[1]) as f:
         li=[]
         li.append(array_a[1])
         li.append(array_a[-1])
-        ans = "\t".join(li)
+        if(li[0]==""):
+            print(uid)
+            li[0]="EMPTY"
+        ans = uid+"\t"+"\t".join(li)
         newfile.write(ans)
         # break
