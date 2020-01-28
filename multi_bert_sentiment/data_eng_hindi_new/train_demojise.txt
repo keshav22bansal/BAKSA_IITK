@@ -1,4 +1,4 @@
-train label
+text	label
 nen á vist bolest vztek smutek zmatek osam ě lost beznad ě j a nakonec jen klid Asi takhle vypad á m ů j life ...	1
 Haan yaar neha kab karega woh post Usne na sach mein photoshoot karna chahiye phir woh post karega  	1
 television media congress ke liye nhi h . Ye toh aapko pata chal hi gya hoga . Achha hoga ki Congress ke  	0

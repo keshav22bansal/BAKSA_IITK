@@ -10,15 +10,17 @@ l1=[]
 flag=0
 flag2=0
 count=1
+#f1.write("text\tlabel\tuid\n")
 while(line):
     if(line=="\n"):
         if(len(l1)):
-            str1 = str1+str(count)+"\t"+" ".join(l1)+"\t"+str(flag)+"\t"+str(flag)+"\n"
+            str1 = str1+str(flag2)+"\t"+" ".join(l1)+"\t"+str(flag)+"\t"+str(flag)+"\n"
             # str2 = str2+" ".join(l2)+"\n"
             # str3 = str3+" ".join(l3)+"\n"
             l1=[]
             # l2=[]
             # l3=[]
+
     else:
         array = line.split("\t")
         #print(array,len(array))
