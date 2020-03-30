@@ -16,6 +16,8 @@ with open(sys.argv[1]) as f:
         l2=[]
         for token in l:
             if token[0] == '<' and token[-1] == '>':
+                # the following continue is added to remove emojis
+                # continue
                 l2.append(token)
             else:
                 l1.append(token)
@@ -31,6 +33,7 @@ with open(sys.argv[1]) as f:
 
         #Modified by Keshav
         # print(ans)
+        ans = ans.replace('"', '').replace('@_','@')
         ans = ans.replace('@ ','@').replace('# ','#').replace('<','').replace('>','').replace("_",' ').replace('  ',' ')
         string = ans.split('\t')[1]
 
