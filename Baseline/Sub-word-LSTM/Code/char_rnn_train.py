@@ -15,9 +15,9 @@ from keras.layers.convolutional import Convolution1D, MaxPooling1D
 
 from keras.utils import np_utils
 from MyNormalizer import token
-from ekphrasis.classes.preprocessor import TextPreProcessor
-from ekphrasis.classes.tokenizer import SocialTokenizer
-from ekphrasis.dicts.emoticons import emoticons
+# from ekphrasis.classes.preprocessor import TextPreProcessor
+# from ekphrasis.classes.tokenizer import SocialTokenizer
+# from ekphrasis.dicts.emoticons import emoticons
 
 # text_processor = TextPreProcessor(
 #     # terms that will be normalized
@@ -59,7 +59,7 @@ Masterdir = '../'
 Datadir = 'Data/'
 Modeldir = 'Models/'
 Featuredir = 'Features/'
-inputdatasetfilename = 'sem_eval_data.txt'
+inputdatasetfilename = 'IIITH_Codemixed.txt'
 exp_details = 'new_experiment'
 
 #Data I/O formatting
@@ -83,7 +83,7 @@ pool_length = 3
 lstm_output_size = 128
 # Training
 batch_size = 128
-number_of_epochs = 10
+number_of_epochs = 50
 numclasses = 3
 test_size = 0.2
 ########################################################
@@ -98,6 +98,7 @@ def parse(Masterdir,filename,seperator,datacol,labelcol,labels):
 	f=open(Masterdir+Datadir+filename,'r')
 	lines = f.read().lower()
 	lines = lines.lower().split('\n')[:-1]
+	lines = lines[1:]
 
 	X_train = []
 	Y_train = []
@@ -215,16 +216,46 @@ def RNN(X_train,y_train,args):
 							border_mode='valid',
 							activation='relu',
 							subsample_length=1))
-	model.add(MaxPooling1D(pool_length=pool_length))
-	model.add((LSTM(lstm_output_size, dropout_W=0.2, dropout_U=0.2, return_sequences=True)))
 	model.add(Convolution1D(nb_filter=nb_filter,
-                                                        filter_length=filter_length,
-                                                        border_mode='valid',
-                                                        activation='relu',
-                                                        subsample_length=1))
+							filter_length=filter_length,
+							border_mode='valid',
+							activation='relu',
+							subsample_length=1))
+	model.add(Convolution1D(nb_filter=nb_filter,
+							filter_length=filter_length,
+							border_mode='valid',
+							activation='relu',
+							subsample_length=1))
 	model.add(MaxPooling1D(pool_length=pool_length))
+	# model.add(Convolution1D(nb_filter=nb_filter,
+	# 						filter_length=filter_length,
+	# 						border_mode='valid',
+	# 						activation='relu',
+	# 						subsample_length=1))
+	# model.add(MaxPooling1D(pool_length=pool_length))
+	# model.add(Convolution1D(nb_filter=nb_filter,
+	# 						filter_length=filter_length,
+	# 						border_mode='valid',
+	# 						activation='relu',
+	# 						subsample_length=1))
+	# model.add(MaxPooling1D(pool_length=pool_length))
+	model.add(Bidirectional(LSTM(lstm_output_size, dropout_W=0.2, dropout_U=0.2, return_sequences=True)))
+	# model.add(Convolution1D(nb_filter=nb_filter,
+    #                                                     filter_length=filter_length,
+    #                                                     border_mode='valid',
+    #                                                     activation='relu',
+    #                                                     subsample_length=1))
+	# model.add(MaxPooling1D(pool_length=pool_length))
 
-	model.add((LSTM(lstm_output_size, dropout_W=0.2, dropout_U=0.2, return_sequences=False)))
+	model.add(Bidirectional(LSTM(lstm_output_size, dropout_W=0.2, dropout_U=0.2, return_sequences=False)))
+	model.add(Dense(128))
+	model.add(Activation("relu"))
+	model.add(Dense(64))
+	model.add(Activation("relu"))
+	model.add(Dense(32))
+	model.add(Activation("relu"))
+	model.add(Dense(16))
+	model.add(Activation("relu"))
 	model.add(Dense(numclasses))
 	model.add(Activation('softmax'))
 

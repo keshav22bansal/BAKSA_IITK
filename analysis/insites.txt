@@ -1,0 +1,3 @@
+1. English word like (bitch, great) transliterated to hindi because of wrong. Language tagging gives a totally different meaning.
+2. More errors are in negative-neutral case.
+3. 

@@ -1,4 +1,4 @@
-uid text	label
+uid	text	label
 30258	modi mantrimandal may samil honay par badhai narmaday har	2
 16648	Rashid Tu toh naamakool hai Mare h  	0
 28511	U saw caste and religion in them ... nation saw talent and trust in them !! .. problem is tum paida hi ulte hue the !!	0
@@ -1249,8 +1249,8 @@ uid text	label
 24628	Chikara is the king without Kingdom Lakin aaj Mota bhai ne unko Mantri bna kar Kingdom de diya hai ab bas Ch  	1
 5712	Arey Hamza bhai i . M hugest fan u r the legend of pyarey afzal mann mail moula jutt love you so mu  	2
 39566	RT Í sey Skyr is ALWAYS a good idea especially on a Friday . P . s - Í sey Skyr is high in protein naturally fat-free smooth  smiling face with heart-eyes face savoring food	1
-27557   CHOKIDAR KAL BHI CHOR THA AAJ BHI CHOR HE AUR KAL BHI CHOR HI RAHEGA BOL YE FEKU HACKING KAR KE AA GAYA  	0
-895 Ez1403 Ja na Pakistani pig + Dukkar + kutta + suvar ki mix aulad pig face with tears of joy face with tears of joy squinting face with tongue squinting face with tongue grinning squinting face grinning squinting face face with tongue face with tongue rolling on the floor laughing rolling on the floor laughing confounded face confounded face grinning squinting face grinning squinting face grinning squinting face	0
+27557	CHOKIDAR KAL BHI CHOR THA AAJ BHI CHOR HE AUR KAL BHI CHOR HI RAHEGA BOL YE FEKU HACKING KAR KE AA GAYA	0
+895	Ez1403 Ja na Pakistani pig + Dukkar + kutta + suvar ki mix aulad pig face with tears of joy face with tears of joy squinting face with tongue squinting face with tongue grinning squinting face grinning squinting face face with tongue face with tongue rolling on the floor laughing rolling on the floor laughing confounded face confounded face grinning squinting face grinning squinting face grinning squinting face	0
 22493	Modi ko jitke liye badhai ho aapko or pure India ko have biji var aavi gaya so fakafeki n  	2
 15113	Iske kaan m bjlp k leaderon k bhdkau bhashan nahi ghusenge kyuki sar se payr tak gulami aur chaploosi m la  	0
 27771	Tera kutty gadaar baap pori harami family ko public k pesay pe world tours karwata raha . Salo sharam  	0
