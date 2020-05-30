@@ -85,7 +85,6 @@ print(f"Number of test examples: {len(test_data)}")
 
 tokens = tokenizer.convert_ids_to_tokens(vars(train_data.examples[0])['text'])
 
-# print(tokens)
 
 
 LABEL.build_vocab(train_data, valid_data)
@@ -129,10 +128,6 @@ model_names = ["CNN_Model", "Attention_Model"]
 models = [  BERTCNNSentiment(bert, OUTPUT_DIM, DROPOUT, N_FILTERS, FILTER_SIZES),
             AttentionModel(bert, BATCH_SIZE, OUTPUT_DIM, HIDDEN_DIM, 50000, 768)  ]
 
-# We can check how many parameters the model has. Our standard models have under 5M, but this one has 112M! Luckily, 110M of these parameters are from the transformer and we will not be training those.
-
-
-# We can now see that our model has under 3M trainable parameters, making it almost comparable to the `FastText` model. However, the text still has to propagate through the transformer which causes training to take considerably longer.
 
 
 def count_parameters(model):
@@ -162,7 +157,6 @@ nll_loss = nn.NLLLoss()
 log_softmax = nn.LogSoftmax()
 
 
-# Place the model and criterion onto the GPU (if available)
 
 for i in range(2):
     models[i] = models[i].to(device)
@@ -170,8 +164,6 @@ criterion = criterion.to(device)
 nll_loss = nll_loss.to(device)
 log_softmax = log_softmax.to(device)
 
-
-# Next, we'll define functions for: calculating accuracy, performing a training epoch, performing an evaluation epoch and calculating how long a training/evaluation epoch takes.
 
 
 from sklearn.metrics import f1_score
