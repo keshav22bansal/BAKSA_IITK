@@ -34,7 +34,7 @@ sudo pip3 install -r requirements.txt
 
 ```
 
-Then run
+### Running
 ```
 cd src
 python main.py <dataset_name>
