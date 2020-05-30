@@ -1,4 +1,4 @@
-# BAKSA at SemEval-2020 Task 9: Bolstering CNN with Self-Attention for Sentiment Analysis of Code Mixed Text
+## BAKSA at SemEval-2020 Task 9: Bolstering CNN with Self-Attention for Sentiment Analysis of Code Mixed Text
 
 This repository contains all code created as a part of the SemEval 2020 shared task. We participated in the task as a part of course CS698O under the mentorship of Prof. Ashutosh Modi.
 
@@ -12,9 +12,9 @@ The approach we used was to the strengthen the prevailent CNN structure with a s
 The instructions to run our code are given below :
 
 
-### Installing
+### Getting Started
 
-A step by step series of examples that tell you how to get a development env running
+A step by step series of examples that tell you how to get the code running
 
 Clone the repo
 
