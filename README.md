@@ -1,4 +1,5 @@
-# CS698O_G9
+# Bolstering CNN with Self-Attention for Sentiment Analysis of Code Mixed Text
+
 This repository contains all code created as a part of the SemEval 2020 shared task. We participated in the task as a part of course CS698O under the mentorship of Prof. Ashutosh Modi.
 
 The objective of the task was sentiment analysis of code mixed social media text. The dataset for the task was provided by the organizers of the task.
