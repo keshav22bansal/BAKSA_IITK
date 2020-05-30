@@ -4,9 +4,9 @@ from models.bert_cnn_model import BERTCNNSentiment
 
 import sys
 
-if sys.argv[1]=="hinglish":
+if sys.argv[1].lower() =="hinglish":
   data_path = "../data/hinglish/"
-elif sys.argv[1] == "spanglish":
+elif sys.argv[1].lower() == "spanglish":
   data_path = "../data/spanglish/"
 else:
   print("Format: %s %s" %(argv[0], argv[1]))
