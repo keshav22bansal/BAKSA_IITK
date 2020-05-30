@@ -31,7 +31,6 @@ source env/bin/activate
 Install the project dependencies:
 ```
 sudo pip3 install -r requirements.txt
-
 ```
 
 ### Running
