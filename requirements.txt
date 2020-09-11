@@ -19,7 +19,7 @@ cssselect==1.1.0
 cycler==0.10.0
 cymem==2.0.3
 decorator==4.4.1
-Django==3.0.5
+Django==3.0.7
 django-livereload-server==0.3.2
 docutils==0.15.2
 ekphrasis==0.5.1
