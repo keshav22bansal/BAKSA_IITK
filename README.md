@@ -21,7 +21,7 @@ Clone the repo
 ```
 git clone https://github.com/keshav22bansal/BAKSA_IITK
 ```
-#### create and start a virtual environment
+#### Create and start a virtual environment
 ##### Using virtualenv
 ```
 virtualenv -p python3 env --no-site-packages
