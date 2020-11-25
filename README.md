@@ -21,14 +21,18 @@ Clone the repo
 ```
 git clone https://github.com/keshav22bansal/BAKSA_IITK
 ```
-create and start a virtual environment
-
+#### create and start a virtual environment
+##### Using virtualenv
 ```
 virtualenv -p python3 env --no-site-packages
 
 source env/bin/activate
 ```
-Install the project dependencies:
+#### Using conda
+conda create -n env python=3.6
+source activate env
+
+#### Install the project dependencies:
 ```
 pip3 install -r requirements.txt
 ```
