@@ -29,9 +29,10 @@ virtualenv -p python3 env --no-site-packages
 source env/bin/activate
 ```
 #### Using conda
+```
 conda create -n env python=3.6
 source activate env
-
+```
 #### Install the project dependencies:
 ```
 pip3 install -r requirements.txt
