@@ -79,7 +79,8 @@ class AttentionModel(torch.nn.Module):
 		
 		"""
 		# print(input_sentences.size())
-		input = self.bert(input_sentences)[0]
+		with torch.no_grad():
+			input = self.bert(input_sentences)[0]
 		input = input.permute(1, 0, 2)
 		if batch_size is None:
 			h_0 = Variable(torch.zeros(1, self.batch_size, self.hidden_size).cuda())
