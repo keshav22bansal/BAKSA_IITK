@@ -9,7 +9,7 @@ emoji==0.6.0
 future==0.18.2
 idna==2.10
 jmespath==0.10.0
-joblib==0.17.0
+joblib==1.2.0
 numpy==1.19.4
 python-dateutil==2.8.1
 regex==2020.11.13
